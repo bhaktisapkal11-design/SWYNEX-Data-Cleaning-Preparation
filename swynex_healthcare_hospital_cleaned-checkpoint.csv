@@ -1,0 +1,851 @@
+patient_id,patient_name,age,gender,blood_group,department,medical_condition,admission_type,admission_date,discharge_date,insurance_provider,billing_amount,readmission_flag,discharge_outcome,satisfaction_score,length_of_stay_days
+PT10394,Omkar Kelkar,25,Female,AB-,General Medicine,Hypertension,Emergency,2025-02-27,2025-03-09,Star Health,77351.11,No,Improved,4,10
+PT10066,Vikram Gokhale,36,Male,B-,General Medicine,Cardiac Care,Urgent,2025-09-28,2025-10-02,HDFC ERGO,66531.78,No,Recovered,5,4
+PT10495,Pooja Jadhav,80,Male,B+,Pulmonology,Hypertension,Elective,2025-02-05,2025-02-10,Niva Bupa,63806.27,No,Recovered,5,5
+PT10067,Vikram Gokhale,77,Male,A-,Orthopedics,Arthritis,Elective,2025-08-03,2025-08-10,HDFC ERGO,65558.16,No,Recovered,2,7
+PT10010,Tanvi Limaye,53,Female,AB-,Orthopedics,Arthritis,Elective,2025-04-10,2025-04-12,Niva Bupa,37827.13,No,Recovered,5,2
+PT10765,Rutuja Shirke,45,Female,A+,Cardiology,Pneumonia,Emergency,2025-11-13,2025-11-15,ICICI Lombard,51029.67,No,Improved,3,2
+PT10086,Karan Sawant,42,Female,B+,Endocrinology,Asthma,Urgent,2025-05-09,2025-05-11,Star Health,41729.65,No,Recovered,2,2
+PT10803,Karan Sawant,84,Female,A-,Endocrinology,Hypertension,Elective,2025-03-19,2025-03-24,Self-Pay,41323.62,Yes,Recovered,4,5
+PT10605,Vikram Gokhale,27,Male,A+,Pulmonology,Cardiac Care,Elective,2025-08-17,2025-08-20,ICICI Lombard,61944.04,No,Follow-Up Required,3,3
+PT10467,Priya Deshmukh,21,Female,O-,Pulmonology,Diabetes,Urgent,2025-02-12,2025-02-16,Self-Pay,50636.41,No,Recovered,5,4
+PT10275,Aditya Bhosale,56,Female,O+,General Medicine,Pneumonia,Elective,2025-06-25,2025-06-29,Niva Bupa,52814.87,No,Recovered,4,4
+PT10424,Aditya Bhosale,33,Male,A-,Orthopedics,Arthritis,Emergency,2025-08-08,2025-08-11,HDFC ERGO,39272.65,No,Recovered,2,3
+PT10334,Meera Phadke,75,Female,AB+,General Medicine,Diabetes,Emergency,2025-10-26,2025-10-28,Star Health,40296.48,No,Improved,4,2
+PT10280,Aditya Bhosale,62,Female,AB+,Endocrinology,Asthma,Urgent,2025-08-18,2025-08-19,Self-Pay,28645.92,No,Recovered,5,1
+PT10477,Aarav Kulkarni,48,Male,AB+,Orthopedics,Hypertension,Emergency,2025-03-31,2025-04-01,ICICI Lombard,38065.06,No,Recovered,4,1
+PT10210,Ananya Chitale,69,Male,AB-,Endocrinology,Arthritis,Urgent,2025-05-24,2025-05-31,Self-Pay,63497.13,Yes,Follow-Up Required,4,7
+PT10425,Vikram Gokhale,18,Female,O+,General Medicine,Pneumonia,Elective,2025-03-10,2025-03-18,Niva Bupa,108755.24,No,Improved,3,8
+PT10028,Siddharth Naik,35,Male,AB+,Orthopedics,Cardiac Care,Emergency,2025-09-28,2025-10-02,ICICI Lombard,78040.85,No,Follow-Up Required,5,4
+PT10286,Pooja Jadhav,38,Male,O+,Endocrinology,Arthritis,Emergency,2025-10-04,2025-10-06,Self-Pay,38037.94,Yes,Recovered,2,2
+PT10547,Pooja Jadhav,33,Male,O+,Pulmonology,Hypertension,Urgent,2025-03-15,2025-03-21,HDFC ERGO,70599.1,No,Recovered,3,6
+PT10168,Sneha Patil,69,Male,AB+,General Medicine,Asthma,Emergency,2025-06-01,2025-06-04,ICICI Lombard,35952.92,Yes,Recovered,4,3
+PT10357,Rutuja Shirke,58,Male,O+,Cardiology,Arthritis,Emergency,2025-06-02,2025-06-12,Self-Pay,88240.87,No,Improved,4,10
+PT10316,Sneha Patil,76,Male,O-,Cardiology,Pneumonia,Elective,2025-09-13,2025-09-14,HDFC ERGO,56157.21,No,Improved,5,1
+PT10501,Aditya Bhosale,21,Male,A+,Pulmonology,Diabetes,Urgent,2025-02-06,2025-02-07,Star Health,27934.89,Yes,Improved,4,1
+PT10465,Karan Sawant,37,Female,B-,Cardiology,Arthritis,Emergency,2025-06-17,2025-06-23,HDFC ERGO,49523.65,No,Improved,4,6
+PT10309,Rohan Joshi,27,Female,A-,General Medicine,Cardiac Care,Urgent,2025-04-05,2025-04-08,Star Health,60050.17,No,Improved,1,3
+PT10023,Aditya Bhosale,52,Female,AB-,Endocrinology,Arthritis,Emergency,2025-08-24,2025-08-26,Star Health,36943.62,No,Recovered,4,2
+PT10030,Priya Deshmukh,66,Female,AB+,Pulmonology,Hypertension,Emergency,2025-06-24,2025-06-30,Star Health,82203.72,No,Improved,5,6
+PT10044,Meera Phadke,24,Other,O+,Pulmonology,Asthma,Elective,2025-01-14,2025-01-17,ICICI Lombard,49607.68,No,Improved,4,3
+PT10786,Tanvi Limaye,85,Female,AB-,Endocrinology,Arthritis,Emergency,2025-11-15,2025-11-22,ICICI Lombard,79880.27,No,Recovered,2,7
+PT10720,Aditya Bhosale,51,Male,AB-,Pulmonology,Arthritis,Urgent,2025-04-08,2025-04-11,Star Health,35118.49,No,Follow-Up Required,2,3
+PT10363,Omkar Kelkar,19,Male,AB-,Orthopedics,Diabetes,Elective,2025-11-10,2025-11-13,HDFC ERGO,53012.68,No,Improved,4,3
+PT10691,Neha Kale,23,Male,AB-,Endocrinology,Pneumonia,Emergency,2025-02-03,2025-02-04,Niva Bupa,49498.09,Yes,Follow-Up Required,5,1
+PT10682,Vikram Gokhale,85,Female,B-,Orthopedics,Pneumonia,Urgent,2025-05-25,2025-05-27,Niva Bupa,62899.07,Yes,Follow-Up Required,2,2
+PT10822,Sneha Patil,39,Male,AB+,Orthopedics,Pneumonia,Emergency,2025-02-08,2025-02-15,ICICI Lombard,95238.15,No,Recovered,5,7
+PT10453,Pooja Jadhav,27,Female,B+,Endocrinology,Pneumonia,Elective,2025-09-04,2025-09-06,Self-Pay,60798.03,No,Improved,5,2
+PT10764,Priya Deshmukh,36,Female,AB-,Orthopedics,Hypertension,Urgent,2025-06-19,2025-06-20,Niva Bupa,34342.48,No,Improved,3,1
+PT10072,Meera Phadke,72,Male,A+,General Medicine,Diabetes,Emergency,2025-07-27,2025-07-29,Niva Bupa,34567.1,No,Recovered,4,2
+PT10696,Vikram Gokhale,64,Male,A+,General Medicine,Diabetes,Emergency,2025-09-07,2025-09-11,Niva Bupa,50043.77,No,Improved,5,4
+PT10532,Karan Sawant,63,Male,O+,Orthopedics,Pneumonia,Emergency,2025-04-19,2025-04-20,ICICI Lombard,51000.25,No,Improved,3,1
+PT10721,Neha Kale,83,Other,AB-,Cardiology,Pneumonia,Urgent,2025-10-13,2025-10-17,Star Health,68550.59,Yes,Improved,4,4
+PT10773,Ananya Chitale,78,Male,B-,Endocrinology,Asthma,Urgent,2025-02-03,2025-02-07,Self-Pay,47498.5,Yes,Improved,4,4
+PT10485,Vikram Gokhale,47,Female,A+,General Medicine,Hypertension,Urgent,2025-04-24,2025-04-28,Niva Bupa,39965.05,No,Improved,3,4
+PT10070,Rutuja Shirke,36,Male,AB+,General Medicine,Diabetes,Urgent,2025-10-23,2025-10-25,HDFC ERGO,46117.22,Yes,Improved,3,2
+PT10649,Meera Phadke,77,Male,A+,General Medicine,Pneumonia,Emergency,2025-01-10,2025-01-16,Star Health,92273.49,No,Recovered,3,6
+PT10291,Pooja Jadhav,51,Female,AB-,Orthopedics,Arthritis,Emergency,2025-10-31,2025-11-04,Self-Pay,46583.9,No,Recovered,2,4
+PT10292,Omkar Kelkar,69,Female,AB+,Cardiology,Diabetes,Emergency,2025-05-27,2025-05-31,ICICI Lombard,52508.15,No,Transferred,3,4
+PT10525,Priya Deshmukh,56,Female,O+,General Medicine,Asthma,Emergency,2025-04-09,2025-04-19,Star Health,76341.05,No,Recovered,4,10
+PT10708,Tanvi Limaye,64,Female,AB+,Pulmonology,Hypertension,Urgent,2025-09-12,2025-09-17,Star Health,58652.52,Yes,Recovered,5,5
+PT10816,Tanvi Limaye,63,Female,B+,Endocrinology,Pneumonia,Elective,2025-08-15,2025-08-18,Niva Bupa,63666.62,Yes,Recovered,5,3
+PT10254,Rutuja Shirke,57,Female,B+,General Medicine,Hypertension,Emergency,2025-04-23,2025-04-28,Niva Bupa,65415.2,No,Improved,5,5
+PT10811,Vikram Gokhale,25,Male,O-,Endocrinology,Hypertension,Urgent,2025-04-21,2025-04-27,Niva Bupa,51394.37,Yes,Recovered,2,6
+PT10823,Rutuja Shirke,38,Female,A-,Endocrinology,Diabetes,Emergency,2025-09-30,2025-10-01,ICICI Lombard,30447.16,No,Recovered,1,1
+PT10749,Vikram Gokhale,55,Female,AB-,Pulmonology,Cardiac Care,Emergency,2025-04-05,2025-04-11,Niva Bupa,76788.84,No,Transferred,5,6
+PT10136,Rutuja Shirke,48,Female,A-,Pulmonology,Pneumonia,Emergency,2025-11-23,2025-11-24,Star Health,48518.54,No,Improved,5,1
+PT10712,Rohan Joshi,65,Female,B-,Cardiology,Pneumonia,Elective,2025-03-07,2025-03-22,HDFC ERGO,120244.04,No,Improved,3,15
+PT10611,Rutuja Shirke,24,Male,AB-,Cardiology,Diabetes,Elective,2025-08-21,2025-08-24,ICICI Lombard,50456.5,No,Follow-Up Required,3,3
+PT10174,Priya Deshmukh,23,Female,A+,Endocrinology,Asthma,Urgent,2025-04-23,2025-04-25,Self-Pay,35439.52,No,Transferred,4,2
+PT10516,Sneha Patil,63,Male,AB-,General Medicine,Diabetes,Elective,2025-08-21,2025-08-26,Niva Bupa,68627.62,Yes,Recovered,3,5
+PT10299,Aarav Kulkarni,30,Female,O-,Endocrinology,Cardiac Care,Elective,2025-08-08,2025-08-09,Niva Bupa,55350.49,No,Recovered,1,1
+PT10572,Meera Phadke,54,Male,B-,General Medicine,Arthritis,Urgent,2025-07-01,2025-07-09,HDFC ERGO,92582.43,Yes,Follow-Up Required,1,8
+PT10096,Rohan Joshi,41,Male,B+,Orthopedics,Diabetes,Emergency,2025-01-28,2025-01-30,Niva Bupa,34685.16,No,Recovered,4,2
+PT10039,Omkar Kelkar,78,Female,AB-,Pulmonology,Hypertension,Emergency,2025-11-25,2025-11-29,Star Health,53122.28,No,Follow-Up Required,3,4
+PT10688,Karan Sawant,78,Male,O-,Orthopedics,Hypertension,Emergency,2025-07-24,2025-07-27,ICICI Lombard,34602.43,No,Recovered,4,3
+PT10589,Priya Deshmukh,56,Male,B+,Endocrinology,Pneumonia,Emergency,2025-07-10,2025-07-11,Niva Bupa,50052.19,No,Transferred,4,1
+PT10781,Vikram Gokhale,31,Male,O+,Orthopedics,Diabetes,Elective,2025-05-01,2025-05-06,Star Health,73888.57,No,Recovered,1,5
+PT10311,Aarav Kulkarni,77,Female,B-,Pulmonology,Asthma,Emergency,2025-07-07,2025-07-11,ICICI Lombard,40435.89,No,Follow-Up Required,4,4
+PT10554,Priya Deshmukh,85,Male,A+,Endocrinology,Pneumonia,Urgent,2025-06-19,2025-06-21,ICICI Lombard,57027.58,Yes,Recovered,2,2
+PT10359,Aditya Bhosale,27,Female,A+,Cardiology,Asthma,Emergency,2025-03-04,2025-03-08,Niva Bupa,53555.91,Yes,Recovered,4,4
+PT10519,Rutuja Shirke,54,Male,AB-,Orthopedics,Pneumonia,Emergency,2025-10-11,2025-10-12,Self-Pay,50176.95,No,Follow-Up Required,4,1
+PT10137,Priya Deshmukh,64,Male,B+,Orthopedics,Asthma,Elective,2025-07-06,2025-07-13,Self-Pay,89378.75,No,Recovered,3,7
+PT10680,Priya Deshmukh,42,Male,AB-,General Medicine,Hypertension,Emergency,2025-07-21,2025-07-22,Star Health,25135.1,No,Improved,3,1
+PT10120,Karan Sawant,25,Female,B+,Orthopedics,Asthma,Urgent,2025-02-11,2025-02-16,ICICI Lombard,56636.23,No,Transferred,2,5
+PT10718,Aarav Kulkarni,50,Other,AB+,Orthopedics,Hypertension,Urgent,2025-10-21,2025-10-24,Star Health,40540.15,No,Follow-Up Required,5,3
+PT10076,Sneha Patil,38,Other,O-,Cardiology,Pneumonia,Elective,2025-08-05,2025-08-08,Star Health,63999.32,No,Recovered,4,3
+PT10260,Rutuja Shirke,67,Male,O-,General Medicine,Asthma,Emergency,2025-06-02,2025-06-08,HDFC ERGO,81839.36,Yes,Improved,4,6
+PT10644,Karan Sawant,26,Female,AB-,Endocrinology,Cardiac Care,Elective,2025-09-10,2025-09-11,Star Health,53587.36,No,Improved,5,1
+PT10266,Rutuja Shirke,31,Female,B-,Orthopedics,Asthma,Emergency,2025-06-10,2025-06-13,ICICI Lombard,39956.26,No,Recovered,4,3
+PT10227,Aarav Kulkarni,37,Male,O+,Pulmonology,Hypertension,Emergency,2025-05-31,2025-06-02,Self-Pay,35555.48,Yes,Improved,3,2
+PT10011,Karan Sawant,68,Male,O-,Cardiology,Arthritis,Emergency,2025-06-01,2025-06-03,HDFC ERGO,39132.46,Yes,Improved,4,2
+PT10323,Sneha Patil,82,Female,AB-,General Medicine,Cardiac Care,Emergency,2025-02-27,2025-03-05,ICICI Lombard,89497.15,No,Transferred,4,6
+PT10584,Pooja Jadhav,78,Male,O+,Pulmonology,Cardiac Care,Elective,2025-02-27,2025-03-05,Niva Bupa,84643.83,No,Improved,4,6
+PT10709,Karan Sawant,75,Female,B-,General Medicine,Pneumonia,Urgent,2025-10-30,2025-11-07,Niva Bupa,81638.54,No,Recovered,5,8
+PT10196,Omkar Kelkar,83,Female,B-,Cardiology,Asthma,Elective,2025-06-09,2025-06-11,Star Health,31800.81,No,Improved,5,2
+PT10346,Omkar Kelkar,81,Female,B+,Cardiology,Hypertension,Emergency,2025-06-22,2025-06-28,HDFC ERGO,70904.21,No,Improved,4,6
+PT10715,Sneha Patil,28,Female,A+,Cardiology,Cardiac Care,Emergency,2025-07-11,2025-07-15,Star Health,71957.37,No,Improved,4,4
+PT10360,Priya Deshmukh,38,Male,O-,General Medicine,Asthma,Urgent,2025-07-09,2025-07-17,HDFC ERGO,62876.86,No,Transferred,2,8
+PT10604,Aarav Kulkarni,76,Male,B+,Orthopedics,Arthritis,Elective,2025-09-09,2025-09-12,Star Health,45948.19,No,Improved,5,3
+PT10281,Tanvi Limaye,49,Male,A-,Pulmonology,Arthritis,Elective,2025-02-20,2025-02-24,ICICI Lombard,52093.31,No,Recovered,4,4
+PT10211,Tanvi Limaye,20,Male,A+,Orthopedics,Arthritis,Elective,2025-04-07,2025-04-17,ICICI Lombard,82204.02,No,Recovered,4,10
+PT10669,Tanvi Limaye,33,Female,A+,Endocrinology,Hypertension,Emergency,2025-04-08,2025-04-14,Self-Pay,50227.46,No,Improved,5,6
+PT10244,Meera Phadke,48,Other,AB+,Orthopedics,Cardiac Care,Emergency,2025-05-27,2025-05-29,Star Health,50886.88,Yes,Recovered,3,2
+PT10290,Pooja Jadhav,85,Male,O+,Orthopedics,Asthma,Emergency,2025-11-13,2025-11-20,Self-Pay,92470.59,No,Follow-Up Required,4,7
+PT10420,Karan Sawant,56,Female,A+,Cardiology,Pneumonia,Elective,2025-05-24,2025-05-26,HDFC ERGO,59370.07,Yes,Improved,4,2
+PT10671,Priya Deshmukh,80,Female,A-,Orthopedics,Diabetes,Elective,2025-04-09,2025-04-13,ICICI Lombard,60058.02,No,Follow-Up Required,5,4
+PT10570,Aditya Bhosale,38,Female,A-,Endocrinology,Arthritis,Emergency,2025-09-09,2025-09-24,ICICI Lombard,90710.36,No,Recovered,4,15
+PT10063,Rohan Joshi,85,Male,A+,Endocrinology,Hypertension,Urgent,2025-07-21,2025-07-23,ICICI Lombard,33845.6,Yes,Recovered,3,2
+PT10806,Sneha Patil,78,Male,O-,Endocrinology,Diabetes,Elective,2025-01-14,2025-01-29,ICICI Lombard,137504.23,No,Improved,5,15
+PT10633,Rutuja Shirke,67,Female,AB-,General Medicine,Diabetes,Elective,2025-08-08,2025-08-10,ICICI Lombard,51330.11,No,Recovered,5,2
+PT10655,Siddharth Naik,44,Male,AB-,Endocrinology,Pneumonia,Urgent,2025-04-29,2025-05-06,Niva Bupa,106804.57,Yes,Recovered,4,7
+PT10065,Aditya Bhosale,41,Male,O-,Orthopedics,Cardiac Care,Elective,2025-10-31,2025-11-06,Star Health,72463.55,No,Recovered,4,6
+PT10305,Neha Kale,19,Male,B+,Cardiology,Hypertension,Elective,2025-02-06,2025-02-09,Niva Bupa,42051.52,No,Improved,3,3
+PT10638,Rohan Joshi,29,Other,B-,General Medicine,Diabetes,Emergency,2025-07-20,2025-07-22,HDFC ERGO,33027.83,No,Recovered,5,2
+PT10759,Meera Phadke,39,Female,A-,Endocrinology,Diabetes,Urgent,2025-05-02,2025-05-03,ICICI Lombard,29977.66,No,Improved,3,1
+PT10078,Aditya Bhosale,65,Female,AB-,General Medicine,Arthritis,Elective,2025-07-07,2025-07-10,Star Health,42883.22,No,Follow-Up Required,4,3
+PT10753,Neha Kale,36,Female,A+,Orthopedics,Asthma,Elective,2025-07-14,2025-07-15,Star Health,34414.44,No,Transferred,4,1
+PT10439,Siddharth Naik,53,Female,AB-,Orthopedics,Arthritis,Elective,2025-09-03,2025-09-05,Star Health,29425.68,No,Improved,3,2
+PT10548,Karan Sawant,71,Male,O+,Endocrinology,Asthma,Elective,2025-09-10,2025-09-15,Star Health,51530.22,Yes,Follow-Up Required,3,5
+PT10774,Sneha Patil,53,Female,B+,Pulmonology,Arthritis,Elective,2025-03-19,2025-03-23,Self-Pay,56060.58,No,Recovered,3,4
+PT10110,Tanvi Limaye,30,Female,B-,General Medicine,Arthritis,Urgent,2025-08-15,2025-08-18,HDFC ERGO,36017.43,No,Improved,5,3
+PT10404,Neha Kale,69,Male,O-,Orthopedics,Cardiac Care,Elective,2025-08-27,2025-09-02,Self-Pay,89970.83,No,Improved,4,6
+PT10783,Pooja Jadhav,76,Female,A-,Cardiology,Pneumonia,Elective,2025-08-27,2025-08-28,ICICI Lombard,45050.09,No,Transferred,4,1
+PT10567,Karan Sawant,74,Other,AB+,Endocrinology,Cardiac Care,Urgent,2025-05-12,2025-05-17,Niva Bupa,69500.94,No,Recovered,5,5
+PT10448,Vikram Gokhale,73,Female,AB-,General Medicine,Cardiac Care,Urgent,2025-09-14,2025-09-17,Star Health,59306.77,No,Recovered,5,3
+PT10451,Ananya Chitale,21,Female,AB-,Orthopedics,Pneumonia,Urgent,2025-01-16,2025-01-18,ICICI Lombard,52038.79,No,Recovered,5,2
+PT10342,Omkar Kelkar,49,Male,O+,Cardiology,Arthritis,Elective,2025-01-13,2025-01-15,Self-Pay,33079.29,Yes,Recovered,3,2
+PT10049,Rohan Joshi,64,Female,A-,Endocrinology,Pneumonia,Emergency,2025-09-21,2025-09-27,Niva Bupa,92023.8,Yes,Recovered,5,6
+PT10139,Pooja Jadhav,79,Female,B+,Orthopedics,Hypertension,Emergency,2025-03-27,2025-03-31,HDFC ERGO,43918.9,No,Recovered,4,4
+PT10622,Pooja Jadhav,43,Male,O-,Orthopedics,Hypertension,Emergency,2025-09-29,2025-10-04,HDFC ERGO,53941.28,Yes,Recovered,3,5
+PT10628,Pooja Jadhav,59,Female,A+,General Medicine,Hypertension,Emergency,2025-05-16,2025-05-17,HDFC ERGO,22593.61,No,Recovered,2,1
+PT10526,Vikram Gokhale,52,Male,AB-,Pulmonology,Arthritis,Emergency,2025-01-25,2025-01-26,Self-Pay,27952.84,No,Follow-Up Required,5,1
+PT10766,Karan Sawant,62,Male,B+,Orthopedics,Asthma,Urgent,2025-01-22,2025-02-06,Niva Bupa,171217.64,Yes,Recovered,4,15
+PT10412,Neha Kale,78,Other,O-,General Medicine,Asthma,Elective,2025-09-29,2025-10-02,HDFC ERGO,48712.37,No,Recovered,4,3
+PT10031,Aarav Kulkarni,21,Male,A-,Endocrinology,Hypertension,Elective,2025-02-20,2025-02-22,Self-Pay,39692.81,No,Recovered,2,2
+PT10027,Rohan Joshi,49,Male,A+,Endocrinology,Asthma,Emergency,2025-07-07,2025-07-11,HDFC ERGO,34600.9,Yes,Improved,3,4
+PT10235,Omkar Kelkar,77,Male,B-,Cardiology,Cardiac Care,Emergency,2025-01-02,2025-01-05,ICICI Lombard,50747.85,No,Recovered,3,3
+PT10481,Pooja Jadhav,66,Male,O-,Endocrinology,Diabetes,Elective,2025-04-25,2025-04-29,Niva Bupa,55238.19,No,Recovered,4,4
+PT10033,Omkar Kelkar,56,Male,O+,Cardiology,Hypertension,Emergency,2025-09-01,2025-09-04,Star Health,50489.56,No,Improved,3,3
+PT10231,Siddharth Naik,23,Male,AB-,Endocrinology,Cardiac Care,Emergency,2025-09-09,2025-09-11,Self-Pay,53049.53,No,Improved,5,2
+PT10746,Neha Kale,40,Male,AB-,Pulmonology,Cardiac Care,Emergency,2025-09-06,2025-09-11,Star Health,71941.26,No,Improved,5,5
+PT10490,Vikram Gokhale,65,Female,O-,General Medicine,Pneumonia,Urgent,2025-06-13,2025-06-20,HDFC ERGO,77408.63,Yes,Follow-Up Required,5,7
+PT10213,Aarav Kulkarni,23,Female,AB-,Orthopedics,Diabetes,Emergency,2025-05-04,2025-05-06,Self-Pay,48412.6,No,Improved,1,2
+PT10109,Ananya Chitale,85,Female,A-,Endocrinology,Diabetes,Emergency,2025-02-04,2025-02-11,Niva Bupa,79057.31,No,Recovered,1,7
+PT10077,Pooja Jadhav,39,Male,B-,Endocrinology,Diabetes,Elective,2025-09-09,2025-09-16,ICICI Lombard,59514.66,No,Recovered,3,7
+PT10259,Vikram Gokhale,55,Female,O-,General Medicine,Pneumonia,Emergency,2025-04-09,2025-04-19,Self-Pay,127739.54,No,Improved,4,10
+PT10082,Karan Sawant,49,Female,AB-,Endocrinology,Hypertension,Urgent,2025-10-28,2025-11-01,Niva Bupa,46557.6,No,Transferred,4,4
+PT10298,Priya Deshmukh,59,Female,B-,Orthopedics,Arthritis,Emergency,2025-06-21,2025-06-25,Self-Pay,45113.39,No,Recovered,4,4
+PT10436,Karan Sawant,58,Male,AB-,Pulmonology,Hypertension,Emergency,2025-01-23,2025-01-25,Self-Pay,35689.88,No,Recovered,5,2
+PT10198,Priya Deshmukh,52,Male,A-,Cardiology,Pneumonia,Urgent,2025-09-04,2025-09-05,Niva Bupa,53116.01,No,Recovered,3,1
+PT10192,Omkar Kelkar,31,Female,AB-,Orthopedics,Arthritis,Emergency,2025-05-10,2025-05-11,ICICI Lombard,27535.4,No,Recovered,3,1
+PT10494,Aarav Kulkarni,35,Male,A+,Orthopedics,Asthma,Elective,2025-04-09,2025-04-14,Self-Pay,65730.19,No,Improved,3,5
+PT10355,Sneha Patil,53,Female,AB+,Endocrinology,Diabetes,Urgent,2025-08-03,2025-08-04,Self-Pay,37981.09,No,Recovered,5,1
+PT10005,Aarav Kulkarni,38,Male,B-,Endocrinology,Cardiac Care,Emergency,2025-01-21,2025-01-23,Self-Pay,55645.1,No,Improved,3,2
+PT10054,Priya Deshmukh,43,Male,B-,General Medicine,Arthritis,Emergency,2025-01-02,2025-01-06,Self-Pay,55883.02,No,Recovered,5,4
+PT10434,Pooja Jadhav,44,Male,AB-,Pulmonology,Hypertension,Urgent,2025-09-11,2025-09-15,ICICI Lombard,55194.37,No,Improved,4,4
+PT10300,Pooja Jadhav,81,Male,A+,General Medicine,Asthma,Urgent,2025-06-07,2025-06-09,Niva Bupa,33118.86,No,Improved,4,2
+PT10239,Aarav Kulkarni,51,Male,B-,Pulmonology,Hypertension,Emergency,2025-02-06,2025-02-14,Self-Pay,95729.08,No,Follow-Up Required,1,8
+PT10097,Priya Deshmukh,77,Male,B-,Endocrinology,Cardiac Care,Emergency,2025-05-15,2025-05-21,HDFC ERGO,58527.97,No,Transferred,5,6
+PT10559,Meera Phadke,49,Female,O+,Cardiology,Arthritis,Emergency,2025-01-29,2025-02-03,ICICI Lombard,54111.52,Yes,Recovered,3,5
+PT10832,Sneha Patil,21,Female,B-,Cardiology,Arthritis,Emergency,2025-01-25,2025-01-27,HDFC ERGO,43720.99,No,Recovered,5,2
+PT10675,Priya Deshmukh,51,Female,A+,Pulmonology,Pneumonia,Emergency,2025-05-13,2025-05-28,Niva Bupa,144578.8,No,Improved,4,15
+PT10487,Siddharth Naik,48,Male,A+,Cardiology,Hypertension,Emergency,2025-08-05,2025-08-13,Self-Pay,86414.1,Yes,Transferred,5,8
+PT10025,Omkar Kelkar,33,Other,A+,Endocrinology,Cardiac Care,Elective,2025-02-28,2025-03-05,HDFC ERGO,79304.8,No,Recovered,4,5
+PT10084,Neha Kale,27,Female,B-,Orthopedics,Pneumonia,Emergency,2025-11-23,2025-11-29,Niva Bupa,96705.29,Yes,Improved,5,6
+PT10208,Karan Sawant,82,Female,AB-,Orthopedics,Cardiac Care,Emergency,2025-07-17,2025-07-19,Self-Pay,54380.39,Yes,Improved,4,2
+PT10362,Neha Kale,29,Female,B+,General Medicine,Diabetes,Elective,2025-05-30,2025-06-04,Self-Pay,52737.79,No,Improved,2,5
+PT10787,Ananya Chitale,25,Female,B+,Endocrinology,Asthma,Elective,2025-02-17,2025-02-19,HDFC ERGO,44358.2,No,Improved,4,2
+PT10367,Neha Kale,33,Female,A+,Cardiology,Diabetes,Emergency,2025-06-19,2025-06-23,HDFC ERGO,52258.43,No,Follow-Up Required,4,4
+PT10118,Aarav Kulkarni,49,Female,B+,General Medicine,Pneumonia,Emergency,2025-07-26,2025-07-28,HDFC ERGO,49620.11,No,Improved,5,2
+PT10676,Rutuja Shirke,21,Male,O+,General Medicine,Pneumonia,Emergency,2025-09-16,2025-10-01,HDFC ERGO,111447.41,Yes,Improved,3,15
+PT10635,Siddharth Naik,36,Male,O-,General Medicine,Asthma,Emergency,2025-08-16,2025-08-21,Self-Pay,58753.11,No,Recovered,3,5
+PT10029,Pooja Jadhav,19,Female,AB-,Orthopedics,Cardiac Care,Urgent,2025-07-09,2025-07-11,Niva Bupa,54127.44,No,Follow-Up Required,4,2
+PT10579,Pooja Jadhav,67,Female,B-,Pulmonology,Cardiac Care,Emergency,2025-06-22,2025-06-26,Niva Bupa,71869.83,No,Improved,4,4
+PT10549,Omkar Kelkar,61,Female,A-,Endocrinology,Diabetes,Emergency,2025-08-18,2025-08-21,ICICI Lombard,48984.85,Yes,Recovered,1,3
+PT10825,Tanvi Limaye,55,Female,AB-,Pulmonology,Cardiac Care,Elective,2025-03-27,2025-03-28,ICICI Lombard,47486.63,Yes,Improved,3,1
+PT10596,Tanvi Limaye,74,Female,AB+,Orthopedics,Cardiac Care,Elective,2025-06-09,2025-06-14,ICICI Lombard,85124.55,No,Recovered,3,5
+PT10344,Pooja Jadhav,22,Female,O+,Orthopedics,Hypertension,Emergency,2025-11-09,2025-11-16,Self-Pay,69985.38,No,Recovered,3,7
+PT10081,Aditya Bhosale,52,Female,B+,Cardiology,Pneumonia,Emergency,2025-01-15,2025-01-18,HDFC ERGO,55352.48,No,Recovered,1,3
+PT10558,Pooja Jadhav,32,Male,AB+,Orthopedics,Arthritis,Emergency,2025-01-05,2025-01-06,Star Health,33027.44,No,Improved,1,1
+PT10351,Rutuja Shirke,83,Male,B+,Orthopedics,Arthritis,Emergency,2025-05-23,2025-05-27,Niva Bupa,43606.53,No,Transferred,3,4
+PT10543,Rutuja Shirke,52,Male,B-,Orthopedics,Hypertension,Emergency,2025-05-26,2025-05-27,Self-Pay,36501.82,No,Recovered,4,1
+PT10383,Karan Sawant,68,Female,A+,Pulmonology,Arthritis,Emergency,2025-05-24,2025-05-30,HDFC ERGO,72109.78,Yes,Recovered,3,6
+PT10762,Priya Deshmukh,20,Female,O-,Orthopedics,Pneumonia,Emergency,2025-01-05,2025-01-08,Self-Pay,60584.77,No,Recovered,2,3
+PT10670,Neha Kale,18,Female,O+,Pulmonology,Arthritis,Urgent,2025-04-15,2025-04-20,Self-Pay,74691.29,No,Recovered,4,5
+PT10457,Karan Sawant,71,Male,O-,Pulmonology,Diabetes,Urgent,2025-06-27,2025-07-01,ICICI Lombard,52735.87,No,Recovered,5,4
+PT10522,Rutuja Shirke,81,Male,B+,Orthopedics,Diabetes,Elective,2025-02-21,2025-03-05,ICICI Lombard,133978.53,No,Recovered,4,12
+PT10743,Vikram Gokhale,49,Female,O+,Pulmonology,Diabetes,Elective,2025-02-12,2025-02-14,Niva Bupa,36688.03,Yes,Recovered,5,2
+PT10365,Neha Kale,70,Other,B+,Endocrinology,Arthritis,Emergency,2025-11-01,2025-11-16,Star Health,153392.08,No,Improved,5,15
+PT10695,Rutuja Shirke,83,Male,O-,Cardiology,Hypertension,Emergency,2025-06-03,2025-06-08,Star Health,57688.86,No,Improved,4,5
+PT10802,Siddharth Naik,37,Female,B+,General Medicine,Asthma,Emergency,2025-01-28,2025-01-31,Niva Bupa,40537.5,No,Recovered,4,3
+PT10499,Rutuja Shirke,50,Male,A+,Endocrinology,Hypertension,Elective,2025-07-09,2025-07-17,Niva Bupa,79757.51,Yes,Recovered,4,8
+PT10265,Aarav Kulkarni,44,Male,O-,Orthopedics,Arthritis,Emergency,2025-06-18,2025-06-24,Self-Pay,56259.21,No,Follow-Up Required,4,6
+PT10528,Vikram Gokhale,41,Male,O+,Endocrinology,Hypertension,Elective,2025-05-31,2025-06-05,Self-Pay,49223.24,No,Improved,3,5
+PT10447,Meera Phadke,33,Male,A+,Cardiology,Hypertension,Elective,2025-04-06,2025-04-08,Niva Bupa,34834.6,No,Improved,2,2
+PT10306,Aarav Kulkarni,77,Female,B-,General Medicine,Cardiac Care,Urgent,2025-10-07,2025-10-10,Star Health,64499.98,No,Recovered,5,3
+PT10514,Pooja Jadhav,59,Male,A+,Cardiology,Hypertension,Emergency,2025-06-26,2025-07-01,Self-Pay,73129.86,No,Recovered,3,5
+PT10007,Aarav Kulkarni,64,Male,A+,Cardiology,Arthritis,Emergency,2025-05-02,2025-05-04,Self-Pay,36551.99,No,Recovered,4,2
+PT10380,Priya Deshmukh,47,Female,B+,General Medicine,Hypertension,Urgent,2025-02-16,2025-02-17,HDFC ERGO,29441.26,No,Recovered,5,1
+PT10155,Siddharth Naik,38,Male,B+,Cardiology,Hypertension,Emergency,2025-10-10,2025-10-20,Star Health,91670.67,No,Recovered,1,10
+PT10328,Aarav Kulkarni,41,Female,A+,Pulmonology,Diabetes,Elective,2025-10-15,2025-10-20,Niva Bupa,62909.83,No,Recovered,4,5
+PT10101,Aarav Kulkarni,59,Male,AB+,Pulmonology,Hypertension,Urgent,2025-02-02,2025-02-08,Niva Bupa,69348.5,Yes,Recovered,4,6
+PT10377,Neha Kale,42,Female,O-,Endocrinology,Hypertension,Elective,2025-04-13,2025-04-18,HDFC ERGO,59555.25,No,Improved,2,5
+PT10506,Siddharth Naik,26,Male,B-,Pulmonology,Asthma,Emergency,2025-08-05,2025-08-07,ICICI Lombard,36274.83,No,Improved,3,2
+PT10393,Aditya Bhosale,38,Male,AB+,Pulmonology,Diabetes,Elective,2025-04-02,2025-04-06,Niva Bupa,41117.65,No,Recovered,3,4
+PT10209,Neha Kale,71,Female,B-,Endocrinology,Asthma,Elective,2025-08-28,2025-08-30,Star Health,34978.68,No,Recovered,4,2
+PT10296,Vikram Gokhale,59,Female,A-,Orthopedics,Pneumonia,Emergency,2025-02-18,2025-02-21,ICICI Lombard,56866.93,No,Recovered,4,3
+PT10002,Aditya Bhosale,65,Male,AB+,Orthopedics,Arthritis,Urgent,2025-04-17,2025-04-20,Niva Bupa,44280.7,No,Recovered,4,3
+PT10215,Pooja Jadhav,30,Male,B+,General Medicine,Diabetes,Emergency,2025-11-22,2025-11-25,HDFC ERGO,39648.2,Yes,Follow-Up Required,3,3
+PT10829,Neha Kale,21,Male,B-,Endocrinology,Arthritis,Emergency,2025-05-25,2025-05-30,HDFC ERGO,40106.76,No,Improved,3,5
+PT10333,Pooja Jadhav,38,Female,O-,Endocrinology,Asthma,Emergency,2025-04-14,2025-04-19,Self-Pay,54902.7,Yes,Improved,3,5
+PT10594,Karan Sawant,19,Other,AB+,General Medicine,Hypertension,Emergency,2025-02-13,2025-02-14,Self-Pay,30600.84,No,Recovered,5,1
+PT10158,Rohan Joshi,50,Male,O-,Orthopedics,Pneumonia,Elective,2025-08-21,2025-08-25,HDFC ERGO,75507.17,No,Recovered,5,4
+PT10752,Siddharth Naik,52,Other,AB-,Orthopedics,Arthritis,Emergency,2025-10-08,2025-10-10,Self-Pay,31752.66,No,Improved,5,2
+PT10810,Rutuja Shirke,82,Male,O-,General Medicine,Pneumonia,Emergency,2025-01-03,2025-01-10,Niva Bupa,107325.42,No,Transferred,4,7
+PT10616,Meera Phadke,32,Male,O+,Cardiology,Hypertension,Urgent,2025-02-23,2025-02-27,Self-Pay,57997.98,No,Follow-Up Required,4,4
+PT10218,Aditya Bhosale,85,Male,B+,Endocrinology,Diabetes,Emergency,2025-09-09,2025-09-14,Star Health,55062.89,No,Follow-Up Required,4,5
+PT10834,Priya Deshmukh,62,Female,O+,Orthopedics,Diabetes,Emergency,2025-03-08,2025-03-10,Niva Bupa,30619.83,No,Recovered,2,2
+PT10409,Sneha Patil,39,Female,A+,Orthopedics,Arthritis,Emergency,2025-02-17,2025-02-18,Niva Bupa,31833.35,Yes,Recovered,4,1
+PT10507,Priya Deshmukh,33,Male,O+,Endocrinology,Arthritis,Elective,2025-10-13,2025-10-20,Niva Bupa,69182.92,No,Follow-Up Required,5,7
+PT10382,Siddharth Naik,49,Female,A-,Endocrinology,Hypertension,Urgent,2025-11-04,2025-11-08,HDFC ERGO,45289.78,No,Recovered,3,4
+PT10375,Pooja Jadhav,49,Male,B+,Orthopedics,Diabetes,Elective,2025-04-18,2025-04-19,ICICI Lombard,22671.05,No,Follow-Up Required,3,1
+PT10717,Ananya Chitale,52,Male,B+,Cardiology,Diabetes,Emergency,2025-08-14,2025-08-21,Star Health,72250.72,No,Follow-Up Required,2,7
+PT10212,Pooja Jadhav,58,Female,O-,Orthopedics,Cardiac Care,Emergency,2025-07-20,2025-07-23,ICICI Lombard,58560.94,No,Follow-Up Required,4,3
+PT10426,Aditya Bhosale,22,Male,O+,Endocrinology,Diabetes,Emergency,2025-02-16,2025-02-26,Self-Pay,98141.59,No,Follow-Up Required,3,10
+PT10079,Aarav Kulkarni,54,Female,A-,Endocrinology,Asthma,Emergency,2025-02-10,2025-02-17,Niva Bupa,78743.08,Yes,Recovered,4,7
+PT10148,Tanvi Limaye,20,Male,O-,General Medicine,Asthma,Urgent,2025-04-18,2025-04-28,Self-Pay,77976.47,No,Recovered,2,10
+PT10405,Rutuja Shirke,44,Male,B+,General Medicine,Pneumonia,Elective,2025-10-17,2025-10-20,Self-Pay,64817.63,No,Improved,4,3
+PT10462,Neha Kale,77,Female,A+,Pulmonology,Cardiac Care,Emergency,2025-09-25,2025-10-03,ICICI Lombard,88761.04,Yes,Follow-Up Required,4,8
+PT10658,Omkar Kelkar,18,Female,AB+,Orthopedics,Asthma,Emergency,2025-05-26,2025-05-30,HDFC ERGO,43061.2,No,Recovered,5,4
+PT10422,Ananya Chitale,25,Female,O+,Cardiology,Diabetes,Elective,2025-07-04,2025-07-10,Star Health,69164.08,Yes,Improved,4,6
+PT10250,Karan Sawant,24,Male,B-,Endocrinology,Diabetes,Emergency,2025-04-30,2025-05-02,Self-Pay,31734.5,No,Recovered,4,2
+PT10677,Vikram Gokhale,45,Male,A-,Cardiology,Diabetes,Emergency,2025-01-23,2025-01-28,Niva Bupa,55301.93,No,Recovered,4,5
+PT10792,Ananya Chitale,79,Male,B-,General Medicine,Asthma,Emergency,2025-01-08,2025-01-12,Self-Pay,44140.07,No,Improved,4,4
+PT10133,Aditya Bhosale,49,Male,A-,Cardiology,Cardiac Care,Elective,2025-02-05,2025-02-09,ICICI Lombard,57976.98,No,Recovered,4,4
+PT10440,Tanvi Limaye,75,Female,AB-,Orthopedics,Arthritis,Emergency,2025-11-21,2025-11-27,Star Health,70459.22,No,Follow-Up Required,4,6
+PT10165,Aarav Kulkarni,19,Female,A-,Pulmonology,Hypertension,Elective,2025-11-03,2025-11-06,Star Health,38077.35,No,Improved,4,3
+PT10529,Neha Kale,74,Male,B-,Orthopedics,Pneumonia,Urgent,2025-05-24,2025-05-25,Star Health,48615.25,No,Improved,4,1
+PT10055,Rutuja Shirke,26,Male,O-,General Medicine,Pneumonia,Elective,2025-02-23,2025-02-26,Star Health,61212.98,No,Recovered,4,3
+PT10521,Neha Kale,38,Female,O-,Pulmonology,Hypertension,Elective,2025-08-11,2025-08-15,Self-Pay,43517.69,No,Recovered,4,4
+PT10653,Meera Phadke,20,Female,O-,Cardiology,Asthma,Elective,2025-09-08,2025-09-16,Niva Bupa,68322.51,No,Recovered,2,8
+PT10531,Omkar Kelkar,71,Male,O-,Pulmonology,Hypertension,Emergency,2025-02-08,2025-02-13,Self-Pay,56401.11,Yes,Improved,3,5
+PT10326,Ananya Chitale,18,Female,B+,Orthopedics,Hypertension,Elective,2025-10-07,2025-10-12,Self-Pay,66596.9,Yes,Recovered,5,5
+PT10445,Pooja Jadhav,70,Male,B+,Cardiology,Hypertension,Elective,2025-09-07,2025-09-17,Niva Bupa,116966.55,No,Recovered,4,10
+PT10204,Karan Sawant,71,Female,O-,General Medicine,Asthma,Emergency,2025-10-21,2025-10-25,Star Health,48827.29,Yes,Improved,3,4
+PT10595,Rutuja Shirke,39,Male,O+,Pulmonology,Cardiac Care,Emergency,2025-06-22,2025-06-24,Self-Pay,60107.96,No,Follow-Up Required,5,2
+PT10431,Aditya Bhosale,27,Male,A+,Cardiology,Cardiac Care,Emergency,2025-02-08,2025-02-10,Star Health,55822.48,No,Follow-Up Required,3,2
+PT10678,Ananya Chitale,76,Male,O+,Orthopedics,Pneumonia,Elective,2025-02-22,2025-02-24,Self-Pay,55806.31,Yes,Recovered,2,2
+PT10758,Neha Kale,43,Male,B-,Endocrinology,Arthritis,Elective,2025-03-02,2025-03-03,HDFC ERGO,33568.8,No,Recovered,5,1
+PT10795,Neha Kale,29,Female,O-,Cardiology,Diabetes,Urgent,2025-06-29,2025-07-03,Self-Pay,41089.49,No,Follow-Up Required,3,4
+PT10060,Ananya Chitale,66,Female,O+,Pulmonology,Pneumonia,Urgent,2025-08-06,2025-08-08,Niva Bupa,53188.21,No,Recovered,4,2
+PT10199,Pooja Jadhav,37,Male,A-,Cardiology,Diabetes,Emergency,2025-11-20,2025-11-24,HDFC ERGO,67862.86,No,Recovered,4,4
+PT10247,Vikram Gokhale,38,Male,AB-,Cardiology,Asthma,Emergency,2025-05-11,2025-05-19,HDFC ERGO,69835.3,No,Recovered,4,8
+PT10618,Rutuja Shirke,44,Male,O+,Endocrinology,Cardiac Care,Emergency,2025-05-24,2025-05-26,Self-Pay,54532.25,Yes,Recovered,4,2
+PT10433,Rohan Joshi,63,Female,B-,Cardiology,Arthritis,Emergency,2025-10-16,2025-10-21,ICICI Lombard,66381.91,No,Recovered,5,5
+PT10416,Omkar Kelkar,36,Female,O-,Cardiology,Diabetes,Emergency,2025-10-05,2025-10-20,ICICI Lombard,113743.24,No,Follow-Up Required,1,15
+PT10513,Sneha Patil,36,Male,O-,Cardiology,Arthritis,Elective,2025-01-19,2025-02-03,ICICI Lombard,95832.26,Yes,Recovered,4,15
+PT10352,Sneha Patil,67,Male,B+,Pulmonology,Arthritis,Urgent,2025-04-02,2025-04-04,HDFC ERGO,39510.58,Yes,Recovered,5,2
+PT10814,Rohan Joshi,57,Male,B-,General Medicine,Pneumonia,Urgent,2025-10-01,2025-10-09,Star Health,96185.75,No,Follow-Up Required,4,8
+PT10800,Meera Phadke,38,Female,O-,Cardiology,Cardiac Care,Elective,2025-08-02,2025-08-04,Self-Pay,61160.81,Yes,Recovered,4,2
+PT10606,Priya Deshmukh,81,Female,B+,Endocrinology,Diabetes,Urgent,2025-06-13,2025-06-14,Niva Bupa,29575.07,No,Improved,4,1
+PT10801,Sneha Patil,65,Female,B+,Pulmonology,Hypertension,Urgent,2025-01-14,2025-01-19,Star Health,64821.76,Yes,Recovered,4,5
+PT10294,Aarav Kulkarni,46,Female,AB-,General Medicine,Cardiac Care,Elective,2025-02-04,2025-02-06,Self-Pay,62739.11,No,Follow-Up Required,4,2
+PT10620,Neha Kale,75,Female,AB-,General Medicine,Arthritis,Elective,2025-11-26,2025-11-28,HDFC ERGO,39848.23,No,Recovered,4,2
+PT10442,Rutuja Shirke,29,Male,O-,Cardiology,Arthritis,Urgent,2025-10-17,2025-10-18,Niva Bupa,21759.03,No,Improved,5,1
+PT10827,Priya Deshmukh,46,Female,A+,Orthopedics,Asthma,Elective,2025-10-27,2025-10-30,Niva Bupa,44038.73,No,Recovered,5,3
+PT10090,Omkar Kelkar,24,Male,A+,Cardiology,Hypertension,Emergency,2025-03-22,2025-03-30,Niva Bupa,61716.87,No,Recovered,5,8
+PT10815,Omkar Kelkar,71,Male,O-,Pulmonology,Arthritis,Elective,2025-10-21,2025-10-24,Self-Pay,43609.45,Yes,Recovered,5,3
+PT10181,Aarav Kulkarni,66,Male,A+,Pulmonology,Cardiac Care,Emergency,2025-04-23,2025-04-28,HDFC ERGO,77661.4,No,Recovered,5,5
+PT10808,Rohan Joshi,85,Female,O+,Pulmonology,Arthritis,Emergency,2025-11-08,2025-11-23,ICICI Lombard,142810.03,No,Recovered,5,15
+PT10069,Aditya Bhosale,35,Male,A-,Cardiology,Pneumonia,Emergency,2025-07-09,2025-07-15,Star Health,80896.76,No,Recovered,4,6
+PT10131,Rutuja Shirke,25,Male,O+,General Medicine,Pneumonia,Emergency,2025-06-20,2025-06-30,Self-Pay,121529.71,Yes,Recovered,5,10
+PT10314,Rohan Joshi,51,Female,B-,Cardiology,Pneumonia,Elective,2025-09-10,2025-09-15,Niva Bupa,83144.97,No,Follow-Up Required,2,5
+PT10449,Siddharth Naik,75,Female,AB-,Pulmonology,Diabetes,Emergency,2025-11-21,2025-11-27,Niva Bupa,76910.31,No,Improved,3,6
+PT10135,Vikram Gokhale,53,Male,AB-,Cardiology,Diabetes,Elective,2025-06-09,2025-06-13,Niva Bupa,37372.89,No,Recovered,4,4
+PT10164,Siddharth Naik,83,Female,O-,Cardiology,Arthritis,Emergency,2025-08-13,2025-08-16,HDFC ERGO,49255.0,Yes,Follow-Up Required,4,3
+PT10468,Siddharth Naik,31,Male,AB+,Cardiology,Pneumonia,Emergency,2025-02-13,2025-02-14,ICICI Lombard,54991.05,No,Improved,5,1
+PT10193,Aditya Bhosale,32,Female,B+,General Medicine,Cardiac Care,Urgent,2025-02-22,2025-02-28,ICICI Lombard,72846.93,No,Recovered,3,6
+PT10396,Karan Sawant,24,Female,A+,Cardiology,Cardiac Care,Emergency,2025-04-27,2025-05-12,Self-Pay,156479.96,Yes,Improved,3,15
+PT10478,Neha Kale,77,Female,AB+,Endocrinology,Hypertension,Emergency,2025-09-21,2025-09-28,Self-Pay,83916.19,No,Improved,4,7
+PT10361,Omkar Kelkar,53,Male,A-,Endocrinology,Cardiac Care,Elective,2025-05-05,2025-05-06,ICICI Lombard,51929.23,No,Follow-Up Required,5,1
+PT10140,Aarav Kulkarni,47,Male,B+,Pulmonology,Arthritis,Emergency,2025-10-11,2025-10-16,Star Health,64550.31,No,Improved,5,5
+PT10173,Pooja Jadhav,72,Female,A+,General Medicine,Pneumonia,Urgent,2025-06-29,2025-07-02,HDFC ERGO,63398.99,No,Recovered,2,3
+PT10006,Ananya Chitale,40,Female,O-,Pulmonology,Asthma,Urgent,2025-04-13,2025-04-14,Niva Bupa,29797.34,No,Improved,3,1
+PT10662,Rutuja Shirke,21,Female,O+,General Medicine,Hypertension,Urgent,2025-09-24,2025-09-26,Self-Pay,49615.31,No,Recovered,5,2
+PT10536,Karan Sawant,48,Female,O-,Orthopedics,Arthritis,Elective,2025-08-11,2025-08-12,ICICI Lombard,32841.39,No,Improved,2,1
+PT10073,Pooja Jadhav,64,Female,B-,Endocrinology,Pneumonia,Elective,2025-08-25,2025-08-31,HDFC ERGO,88936.48,No,Recovered,3,6
+PT10599,Aarav Kulkarni,49,Female,B+,General Medicine,Pneumonia,Emergency,2025-10-30,2025-11-03,HDFC ERGO,61577.86,No,Recovered,5,4
+PT10849,Aarav Kulkarni,82,Male,B-,Endocrinology,Cardiac Care,Elective,2025-06-29,2025-07-03,Self-Pay,69006.57,No,Follow-Up Required,3,4
+PT10430,Vikram Gokhale,81,Female,A-,Orthopedics,Asthma,Elective,2025-08-06,2025-08-21,HDFC ERGO,142420.99,No,Improved,4,15
+PT10145,Rutuja Shirke,33,Male,AB+,Endocrinology,Pneumonia,Urgent,2025-05-14,2025-05-18,Star Health,72543.08,No,Recovered,4,4
+PT10234,Neha Kale,19,Male,A-,Cardiology,Arthritis,Elective,2025-03-01,2025-03-08,ICICI Lombard,82962.23,Yes,Follow-Up Required,4,7
+PT10220,Ananya Chitale,85,Male,O-,Orthopedics,Arthritis,Urgent,2025-05-28,2025-05-29,Self-Pay,34305.69,No,Recovered,5,1
+PT10350,Siddharth Naik,42,Female,B-,Orthopedics,Asthma,Elective,2025-05-22,2025-05-24,HDFC ERGO,40557.65,No,Improved,4,2
+PT10368,Aarav Kulkarni,49,Female,A-,General Medicine,Hypertension,Emergency,2025-11-22,2025-11-29,Star Health,57287.99,No,Improved,3,7
+PT10132,Karan Sawant,39,Male,AB-,General Medicine,Arthritis,Elective,2025-01-29,2025-01-31,Self-Pay,34545.08,No,Improved,5,2
+PT10432,Tanvi Limaye,38,Male,B+,Endocrinology,Arthritis,Elective,2025-04-10,2025-04-20,Niva Bupa,111733.31,Yes,Recovered,3,10
+PT10693,Tanvi Limaye,61,Female,A-,Pulmonology,Hypertension,Emergency,2025-03-13,2025-03-17,Self-Pay,45374.77,No,Improved,5,4
+PT10617,Meera Phadke,31,Male,AB+,General Medicine,Pneumonia,Urgent,2025-09-16,2025-09-17,Star Health,47087.38,Yes,Follow-Up Required,5,1
+PT10041,Siddharth Naik,73,Male,AB-,Endocrinology,Asthma,Emergency,2025-10-01,2025-10-05,Self-Pay,39684.51,No,Recovered,5,4
+PT10534,Meera Phadke,77,Female,AB+,Endocrinology,Cardiac Care,Elective,2025-02-11,2025-02-14,ICICI Lombard,54730.25,No,Recovered,4,3
+PT10108,Aarav Kulkarni,58,Male,B-,Pulmonology,Arthritis,Emergency,2025-08-02,2025-08-08,Niva Bupa,72531.06,No,Improved,3,6
+PT10398,Meera Phadke,39,Female,AB-,Endocrinology,Pneumonia,Urgent,2025-10-06,2025-10-12,ICICI Lombard,87521.61,No,Recovered,4,6
+PT10056,Aarav Kulkarni,32,Male,A-,Pulmonology,Arthritis,Urgent,2025-04-16,2025-04-19,HDFC ERGO,48565.1,Yes,Recovered,4,3
+PT10302,Aarav Kulkarni,26,Male,AB-,Cardiology,Arthritis,Urgent,2025-01-06,2025-01-07,HDFC ERGO,35011.68,No,Follow-Up Required,5,1
+PT10327,Omkar Kelkar,68,Female,A-,General Medicine,Asthma,Urgent,2025-04-24,2025-04-28,Star Health,45894.22,Yes,Recovered,2,4
+PT10667,Pooja Jadhav,28,Female,A+,General Medicine,Asthma,Urgent,2025-10-10,2025-10-13,Self-Pay,33304.34,No,Recovered,3,3
+PT10024,Sneha Patil,25,Female,O+,Endocrinology,Hypertension,Elective,2025-02-18,2025-02-20,Star Health,38625.24,No,Improved,5,2
+PT10331,Pooja Jadhav,22,Male,A-,General Medicine,Arthritis,Urgent,2025-06-04,2025-06-11,Star Health,61457.9,No,Improved,3,7
+PT10711,Neha Kale,40,Male,B+,General Medicine,Cardiac Care,Emergency,2025-08-17,2025-08-19,HDFC ERGO,54200.8,Yes,Recovered,4,2
+PT10411,Priya Deshmukh,54,Male,O-,Cardiology,Asthma,Urgent,2025-08-25,2025-08-28,Star Health,31302.27,No,Follow-Up Required,5,3
+PT10051,Neha Kale,39,Male,A+,Orthopedics,Pneumonia,Elective,2025-07-25,2025-07-30,Niva Bupa,81557.41,No,Recovered,4,5
+PT10588,Karan Sawant,58,Female,AB-,Pulmonology,Arthritis,Emergency,2025-07-09,2025-07-11,HDFC ERGO,40060.59,Yes,Recovered,3,2
+PT10797,Sneha Patil,28,Male,AB-,Cardiology,Diabetes,Elective,2025-10-30,2025-11-09,Star Health,88762.67,No,Improved,3,10
+PT10703,Omkar Kelkar,52,Male,B+,Pulmonology,Pneumonia,Elective,2025-08-24,2025-08-26,ICICI Lombard,53760.46,Yes,Transferred,4,2
+PT10264,Omkar Kelkar,24,Male,AB+,Pulmonology,Pneumonia,Emergency,2025-07-27,2025-08-04,HDFC ERGO,104427.02,Yes,Follow-Up Required,5,8
+PT10845,Pooja Jadhav,29,Male,A-,Pulmonology,Asthma,Urgent,2025-03-24,2025-03-27,ICICI Lombard,42389.1,No,Recovered,5,3
+PT10598,Meera Phadke,33,Male,A-,Orthopedics,Arthritis,Elective,2025-11-13,2025-11-15,Niva Bupa,41176.89,No,Recovered,4,2
+PT10794,Pooja Jadhav,47,Female,A+,General Medicine,Diabetes,Emergency,2025-09-10,2025-09-17,Niva Bupa,91282.76,No,Recovered,4,7
+PT10332,Ananya Chitale,37,Male,A+,Orthopedics,Cardiac Care,Elective,2025-09-30,2025-10-06,Star Health,74988.73,No,Transferred,5,6
+PT10018,Rohan Joshi,85,Male,AB+,Cardiology,Pneumonia,Urgent,2025-10-04,2025-10-05,ICICI Lombard,44456.17,No,Recovered,3,1
+PT10626,Aditya Bhosale,20,Male,A+,Orthopedics,Diabetes,Emergency,2025-06-13,2025-06-16,Star Health,52152.3,No,Recovered,4,3
+PT10319,Ananya Chitale,77,Male,O+,Orthopedics,Pneumonia,Emergency,2025-01-18,2025-01-19,Self-Pay,51830.19,Yes,Follow-Up Required,1,1
+PT10083,Karan Sawant,28,Male,AB+,Orthopedics,Hypertension,Emergency,2025-03-06,2025-03-09,Star Health,58523.7,No,Follow-Up Required,5,3
+PT10061,Vikram Gokhale,43,Female,AB-,General Medicine,Diabetes,Emergency,2025-02-13,2025-02-18,HDFC ERGO,61639.74,No,Improved,4,5
+PT10272,Meera Phadke,38,Male,A-,Orthopedics,Arthritis,Elective,2025-07-14,2025-07-16,ICICI Lombard,44260.14,No,Recovered,4,2
+PT10285,Rohan Joshi,80,Female,B-,Cardiology,Hypertension,Emergency,2025-08-14,2025-08-21,ICICI Lombard,54293.74,No,Recovered,3,7
+PT10338,Ananya Chitale,32,Male,AB-,Endocrinology,Arthritis,Elective,2025-06-19,2025-06-27,ICICI Lombard,68757.58,No,Improved,5,8
+PT10833,Vikram Gokhale,39,Female,O-,Cardiology,Arthritis,Elective,2025-03-09,2025-03-12,ICICI Lombard,38698.74,Yes,Recovered,3,3
+PT10012,Rohan Joshi,32,Female,B+,Pulmonology,Cardiac Care,Elective,2025-05-11,2025-05-13,ICICI Lombard,49016.45,No,Recovered,5,2
+PT10182,Pooja Jadhav,59,Male,O-,Pulmonology,Arthritis,Elective,2025-03-22,2025-03-23,Niva Bupa,35205.59,No,Recovered,4,1
+PT10464,Neha Kale,62,Female,AB-,Pulmonology,Pneumonia,Urgent,2025-03-06,2025-03-13,ICICI Lombard,92515.22,No,Recovered,3,7
+PT10539,Pooja Jadhav,47,Male,AB+,Orthopedics,Asthma,Emergency,2025-06-12,2025-06-24,Star Health,97668.33,No,Transferred,5,12
+PT10223,Meera Phadke,29,Female,O-,Cardiology,Pneumonia,Emergency,2025-05-08,2025-05-13,HDFC ERGO,69472.36,No,Transferred,5,5
+PT10486,Ananya Chitale,75,Male,B-,Cardiology,Diabetes,Urgent,2025-03-16,2025-03-18,ICICI Lombard,36472.56,No,Recovered,4,2
+PT10613,Priya Deshmukh,37,Male,B+,General Medicine,Hypertension,Emergency,2025-01-14,2025-01-21,Star Health,54781.76,No,Recovered,5,7
+PT10500,Rohan Joshi,34,Male,A+,General Medicine,Asthma,Urgent,2025-08-12,2025-08-19,ICICI Lombard,73900.6,Yes,Transferred,4,7
+PT10381,Pooja Jadhav,61,Female,AB-,Orthopedics,Pneumonia,Urgent,2025-11-07,2025-11-10,Self-Pay,52566.27,No,Improved,5,3
+PT10583,Pooja Jadhav,78,Male,A+,Orthopedics,Pneumonia,Emergency,2025-05-06,2025-05-12,ICICI Lombard,88816.18,No,Recovered,4,6
+PT10533,Sneha Patil,77,Female,AB-,Pulmonology,Hypertension,Urgent,2025-06-30,2025-07-04,Niva Bupa,54037.77,No,Recovered,4,4
+PT10176,Sneha Patil,39,Female,B+,Cardiology,Asthma,Elective,2025-02-21,2025-02-25,ICICI Lombard,47054.82,No,Follow-Up Required,1,4
+PT10585,Pooja Jadhav,45,Male,O-,Endocrinology,Cardiac Care,Elective,2025-05-28,2025-06-04,Self-Pay,90185.4,No,Improved,5,7
+PT10789,Vikram Gokhale,58,Female,AB-,Pulmonology,Diabetes,Emergency,2025-01-26,2025-02-02,ICICI Lombard,59999.21,No,Follow-Up Required,4,7
+PT10163,Karan Sawant,40,Male,B-,Cardiology,Pneumonia,Emergency,2025-06-14,2025-06-15,ICICI Lombard,46636.81,Yes,Recovered,4,1
+PT10248,Vikram Gokhale,49,Female,A-,Pulmonology,Asthma,Elective,2025-06-01,2025-06-08,Niva Bupa,69824.09,Yes,Recovered,4,7
+PT10557,Rohan Joshi,24,Male,AB+,Endocrinology,Diabetes,Urgent,2025-07-13,2025-07-15,Self-Pay,28291.61,Yes,Recovered,4,2
+PT10768,Rutuja Shirke,36,Male,B+,General Medicine,Asthma,Urgent,2025-01-01,2025-01-02,ICICI Lombard,36095.56,No,Improved,5,1
+PT10074,Neha Kale,66,Female,B+,Orthopedics,Cardiac Care,Elective,2025-02-22,2025-02-27,HDFC ERGO,79763.78,Yes,Follow-Up Required,3,5
+PT10113,Ananya Chitale,19,Female,B-,Endocrinology,Cardiac Care,Urgent,2025-09-14,2025-09-21,HDFC ERGO,94390.52,No,Recovered,3,7
+PT10483,Priya Deshmukh,39,Female,A+,Cardiology,Cardiac Care,Elective,2025-07-15,2025-07-18,Star Health,67331.4,No,Improved,5,3
+PT10014,Tanvi Limaye,38,Male,A+,Endocrinology,Cardiac Care,Emergency,2025-11-05,2025-11-06,Star Health,52546.47,No,Recovered,4,1
+PT10104,Ananya Chitale,53,Male,AB+,Orthopedics,Asthma,Emergency,2025-08-04,2025-08-06,HDFC ERGO,28724.71,Yes,Follow-Up Required,2,2
+PT10114,Rohan Joshi,77,Female,AB-,Pulmonology,Diabetes,Emergency,2025-01-05,2025-01-07,Niva Bupa,39555.24,Yes,Recovered,4,2
+PT10734,Rutuja Shirke,55,Male,AB-,General Medicine,Cardiac Care,Elective,2025-11-26,2025-11-28,Star Health,54623.8,No,Transferred,5,2
+PT10092,Sneha Patil,84,Female,O+,General Medicine,Diabetes,Emergency,2025-10-16,2025-10-17,HDFC ERGO,25254.37,No,Recovered,3,1
+PT10582,Sneha Patil,41,Male,AB+,Pulmonology,Arthritis,Elective,2025-08-08,2025-08-15,Self-Pay,84002.69,Yes,Improved,5,7
+PT10089,Priya Deshmukh,52,Male,O+,General Medicine,Arthritis,Elective,2025-05-19,2025-05-23,Self-Pay,52100.22,No,Recovered,4,4
+PT10336,Karan Sawant,49,Other,A+,Pulmonology,Asthma,Elective,2025-06-25,2025-06-28,Self-Pay,44747.08,No,Recovered,4,3
+PT10821,Omkar Kelkar,69,Male,B-,General Medicine,Diabetes,Emergency,2025-07-21,2025-07-24,HDFC ERGO,39369.43,No,Improved,5,3
+PT10798,Tanvi Limaye,81,Male,B-,Cardiology,Cardiac Care,Urgent,2025-05-07,2025-05-12,Star Health,70637.15,No,Recovered,4,5
+PT10809,Siddharth Naik,52,Male,AB-,Pulmonology,Cardiac Care,Elective,2025-01-07,2025-01-10,HDFC ERGO,52045.34,No,Improved,5,3
+PT10530,Priya Deshmukh,58,Female,B-,Endocrinology,Asthma,Emergency,2025-02-26,2025-03-01,Niva Bupa,38320.12,No,Recovered,5,3
+PT10535,Karan Sawant,74,Male,B+,Pulmonology,Hypertension,Urgent,2025-07-05,2025-07-10,Niva Bupa,59431.43,No,Follow-Up Required,2,5
+PT10094,Omkar Kelkar,56,Female,AB-,General Medicine,Asthma,Emergency,2025-08-19,2025-08-24,Self-Pay,62389.6,No,Follow-Up Required,5,5
+PT10408,Rutuja Shirke,61,Male,B-,General Medicine,Diabetes,Emergency,2025-04-28,2025-04-30,Self-Pay,32410.3,No,Improved,4,2
+PT10043,Omkar Kelkar,85,Female,A-,Cardiology,Asthma,Urgent,2025-11-12,2025-11-13,Self-Pay,27449.41,No,Recovered,3,1
+PT10042,Tanvi Limaye,53,Female,O+,Pulmonology,Cardiac Care,Urgent,2025-03-30,2025-04-03,Niva Bupa,59999.75,No,Improved,3,4
+PT10329,Aarav Kulkarni,41,Female,O-,General Medicine,Hypertension,Emergency,2025-05-31,2025-06-03,HDFC ERGO,32042.99,No,Recovered,3,3
+PT10167,Omkar Kelkar,84,Male,AB+,Orthopedics,Pneumonia,Elective,2025-06-21,2025-07-01,HDFC ERGO,96077.16,No,Recovered,3,10
+PT10760,Rohan Joshi,65,Male,A+,Cardiology,Asthma,Emergency,2025-02-20,2025-02-23,Self-Pay,34241.1,No,Follow-Up Required,2,3
+PT10705,Tanvi Limaye,51,Female,O-,Endocrinology,Asthma,Urgent,2025-09-08,2025-09-13,HDFC ERGO,53347.93,No,Recovered,5,5
+PT10473,Rohan Joshi,41,Female,AB+,General Medicine,Asthma,Urgent,2025-09-10,2025-09-14,Niva Bupa,53893.19,No,Follow-Up Required,3,4
+PT10178,Omkar Kelkar,32,Female,AB+,Cardiology,Asthma,Emergency,2025-10-22,2025-10-30,Niva Bupa,69847.51,No,Recovered,4,8
+PT10569,Aarav Kulkarni,75,Male,AB+,Cardiology,Pneumonia,Elective,2025-03-11,2025-03-13,Self-Pay,46111.61,No,Improved,3,2
+PT10578,Aditya Bhosale,50,Male,A+,Endocrinology,Pneumonia,Elective,2025-05-06,2025-05-13,Self-Pay,100428.19,No,Recovered,4,7
+PT10177,Vikram Gokhale,60,Male,AB+,Orthopedics,Cardiac Care,Emergency,2025-09-25,2025-09-28,ICICI Lombard,70882.35,Yes,Recovered,4,3
+PT10593,Omkar Kelkar,22,Female,AB+,Pulmonology,Hypertension,Emergency,2025-02-27,2025-03-03,Star Health,40920.25,No,Follow-Up Required,1,4
+PT10692,Siddharth Naik,77,Male,AB+,General Medicine,Diabetes,Elective,2025-04-05,2025-04-12,Self-Pay,61831.79,No,Follow-Up Required,4,7
+PT10812,Priya Deshmukh,62,Male,O-,Orthopedics,Arthritis,Elective,2025-08-26,2025-08-30,HDFC ERGO,32526.08,No,Follow-Up Required,4,4
+PT10257,Pooja Jadhav,69,Male,A-,General Medicine,Pneumonia,Emergency,2025-08-15,2025-08-18,HDFC ERGO,60747.43,No,Recovered,5,3
+PT10656,Vikram Gokhale,57,Male,AB-,General Medicine,Arthritis,Emergency,2025-10-16,2025-10-19,Self-Pay,35706.01,No,Recovered,4,3
+PT10335,Rutuja Shirke,48,Female,A-,General Medicine,Pneumonia,Urgent,2025-09-03,2025-09-07,HDFC ERGO,79300.21,No,Recovered,5,4
+PT10538,Aarav Kulkarni,53,Female,A-,Pulmonology,Asthma,Emergency,2025-05-13,2025-05-28,Self-Pay,118210.73,No,Follow-Up Required,4,15
+PT10015,Siddharth Naik,30,Male,A-,Cardiology,Hypertension,Urgent,2025-09-15,2025-09-19,Self-Pay,48405.62,Yes,Recovered,4,4
+PT10003,Ananya Chitale,63,Male,A-,Orthopedics,Hypertension,Elective,2025-03-13,2025-03-28,ICICI Lombard,116995.24,No,Recovered,1,15
+PT10388,Omkar Kelkar,29,Male,A-,Pulmonology,Pneumonia,Elective,2025-05-27,2025-05-29,Star Health,65117.59,No,Recovered,5,2
+PT10256,Priya Deshmukh,69,Male,AB-,Pulmonology,Cardiac Care,Elective,2025-09-11,2025-09-15,ICICI Lombard,54565.87,No,Recovered,5,4
+PT10428,Karan Sawant,82,Female,AB-,Endocrinology,Cardiac Care,Emergency,2025-08-26,2025-08-31,Niva Bupa,74887.0,No,Transferred,5,5
+PT10450,Aditya Bhosale,21,Male,O-,Cardiology,Diabetes,Elective,2025-01-04,2025-01-09,Star Health,54886.63,No,Improved,2,5
+PT10697,Aditya Bhosale,20,Other,O-,Pulmonology,Asthma,Elective,2025-06-11,2025-06-18,Star Health,55411.07,Yes,Recovered,3,7
+PT10222,Rutuja Shirke,77,Male,O-,Endocrinology,Cardiac Care,Emergency,2025-11-04,2025-11-06,Niva Bupa,58039.12,No,Improved,4,2
+PT10479,Karan Sawant,77,Male,A-,Pulmonology,Diabetes,Emergency,2025-04-03,2025-04-07,ICICI Lombard,40509.48,Yes,Improved,4,4
+PT10429,Aditya Bhosale,21,Male,B-,Endocrinology,Cardiac Care,Urgent,2025-07-23,2025-07-25,Star Health,51483.31,No,Improved,4,2
+PT10576,Neha Kale,78,Male,O-,General Medicine,Diabetes,Elective,2025-01-19,2025-01-24,Self-Pay,54970.21,No,Improved,4,5
+PT10324,Meera Phadke,25,Female,A-,Cardiology,Asthma,Elective,2025-11-19,2025-11-20,Self-Pay,31357.95,No,Follow-Up Required,5,1
+PT10541,Ananya Chitale,47,Male,B+,Pulmonology,Arthritis,Emergency,2025-08-09,2025-08-11,Star Health,43133.56,No,Recovered,1,2
+PT10009,Meera Phadke,42,Female,A+,General Medicine,Hypertension,Elective,2025-03-29,2025-03-31,ICICI Lombard,38838.51,Yes,Recovered,4,2
+PT10249,Priya Deshmukh,79,Male,B+,General Medicine,Diabetes,Emergency,2025-02-23,2025-02-26,Self-Pay,48991.86,No,Follow-Up Required,4,3
+PT10022,Ananya Chitale,45,Female,B-,Cardiology,Arthritis,Urgent,2025-09-10,2025-09-17,Niva Bupa,72663.66,No,Follow-Up Required,4,7
+PT10356,Sneha Patil,85,Female,B+,Cardiology,Cardiac Care,Emergency,2025-02-20,2025-02-25,Self-Pay,73330.09,No,Recovered,3,5
+PT10221,Siddharth Naik,62,Female,AB+,Endocrinology,Asthma,Emergency,2025-07-18,2025-07-20,HDFC ERGO,28663.96,Yes,Improved,4,2
+PT10590,Siddharth Naik,66,Male,A+,General Medicine,Asthma,Elective,2025-11-08,2025-11-18,Niva Bupa,111330.2,No,Improved,4,10
+PT10835,Pooja Jadhav,84,Female,A+,Endocrinology,Pneumonia,Elective,2025-08-21,2025-08-22,HDFC ERGO,40538.6,No,Recovered,2,1
+PT10008,Aarav Kulkarni,32,Female,O-,Endocrinology,Pneumonia,Emergency,2025-08-03,2025-08-05,Self-Pay,65667.84,No,Recovered,3,2
+PT10772,Pooja Jadhav,70,Female,AB+,Orthopedics,Pneumonia,Emergency,2025-02-15,2025-02-18,Niva Bupa,67492.74,No,Recovered,3,3
+PT10340,Karan Sawant,45,Male,A+,General Medicine,Hypertension,Emergency,2025-01-26,2025-07-02,ICICI Lombard,94516.92,Yes,Improved,2,157
+PT10731,Aditya Bhosale,49,Female,A-,Endocrinology,Arthritis,Emergency,2025-10-12,2025-10-15,ICICI Lombard,53820.36,Yes,Improved,5,3
+PT10716,Vikram Gokhale,32,Male,A-,General Medicine,Diabetes,Emergency,2025-09-09,2025-09-11,Niva Bupa,31296.67,Yes,Recovered,1,2
+PT10203,Priya Deshmukh,42,Male,A+,Cardiology,Asthma,Urgent,2025-09-12,2025-09-15,Star Health,45457.18,No,Recovered,4,3
+PT10237,Siddharth Naik,48,Male,A+,Endocrinology,Arthritis,Urgent,2025-09-11,2025-09-13,HDFC ERGO,41939.7,No,Recovered,5,2
+PT10093,Omkar Kelkar,59,Female,B-,Orthopedics,Asthma,Emergency,2025-09-18,2025-09-28,ICICI Lombard,70079.03,No,Improved,4,10
+PT10728,Rutuja Shirke,80,Female,AB-,Orthopedics,Cardiac Care,Emergency,2025-02-20,2025-02-26,Self-Pay,82939.2,Yes,Recovered,4,6
+PT10417,Vikram Gokhale,40,Male,A+,Cardiology,Diabetes,Emergency,2025-09-04,2025-09-07,Niva Bupa,49264.76,No,Recovered,5,3
+PT10552,Aarav Kulkarni,74,Female,A-,Orthopedics,Pneumonia,Emergency,2025-05-21,2025-05-24,Star Health,70249.58,Yes,Improved,4,3
+PT10284,Karan Sawant,28,Male,O-,General Medicine,Arthritis,Emergency,2025-01-02,2025-01-27,HDFC ERGO,58036.37,No,Improved,4,25
+PT10184,Tanvi Limaye,62,Male,A+,Orthopedics,Pneumonia,Elective,2025-04-23,2025-04-25,ICICI Lombard,58161.27,No,Recovered,4,2
+PT10799,Priya Deshmukh,67,Male,AB+,Cardiology,Pneumonia,Emergency,2025-02-25,2025-03-02,HDFC ERGO,87732.35,No,Improved,3,5
+PT10456,Rohan Joshi,54,Other,A-,General Medicine,Cardiac Care,Elective,2025-06-01,2025-06-05,HDFC ERGO,67250.23,No,Improved,4,4
+PT10153,Aarav Kulkarni,82,Male,AB+,Endocrinology,Diabetes,Emergency,2025-07-09,2025-07-16,Niva Bupa,92128.71,No,Transferred,5,7
+PT10075,Aarav Kulkarni,50,Female,O-,Endocrinology,Hypertension,Emergency,2025-10-07,2025-10-11,Self-Pay,58317.17,No,Recovered,3,4
+PT10651,Vikram Gokhale,19,Male,B+,General Medicine,Cardiac Care,Urgent,2025-10-13,2025-10-19,Star Health,102391.37,No,Recovered,4,6
+PT10537,Siddharth Naik,41,Male,A+,Orthopedics,Pneumonia,Emergency,2025-05-02,2025-05-09,Self-Pay,97269.86,No,Follow-Up Required,4,7
+PT10277,Siddharth Naik,82,Female,O+,Endocrinology,Cardiac Care,Urgent,2025-08-26,2025-08-28,Star Health,45669.89,No,Recovered,5,2
+PT10068,Neha Kale,56,Female,AB-,Pulmonology,Hypertension,Elective,2025-09-09,2025-11-09,Self-Pay,29218.25,No,Follow-Up Required,1,61
+PT10551,Ananya Chitale,73,Other,O-,Orthopedics,Asthma,Elective,2025-06-23,2025-07-08,Star Health,114532.84,No,Improved,4,15
+PT10188,Neha Kale,23,Male,O+,Cardiology,Pneumonia,Urgent,2025-02-23,2025-02-24,Star Health,50522.68,No,Improved,3,1
+PT10271,Sneha Patil,49,Male,A+,Cardiology,Asthma,Emergency,2025-05-15,2025-05-17,HDFC ERGO,36119.36,No,Recovered,5,2
+PT10756,Sneha Patil,57,Female,B+,Orthopedics,Hypertension,Emergency,2025-04-03,2025-04-07,ICICI Lombard,48772.85,Yes,Transferred,4,4
+PT10542,Ananya Chitale,24,Male,O+,Endocrinology,Diabetes,Elective,2025-08-23,2025-08-29,HDFC ERGO,51715.41,No,Recovered,4,6
+PT10236,Meera Phadke,40,Male,B-,Orthopedics,Pneumonia,Urgent,2025-10-31,2025-11-05,Star Health,63802.3,No,Improved,4,5
+PT10088,Tanvi Limaye,81,Male,B+,Endocrinology,Diabetes,Emergency,2025-03-04,2025-03-07,Niva Bupa,50231.68,No,Recovered,4,3
+PT10738,Rutuja Shirke,74,Male,B+,Orthopedics,Cardiac Care,Emergency,2025-09-19,2025-09-22,ICICI Lombard,64469.92,Yes,Follow-Up Required,2,3
+PT10117,Rutuja Shirke,44,Male,O+,Pulmonology,Cardiac Care,Elective,2025-10-10,2025-10-12,Self-Pay,60837.8,Yes,Recovered,4,2
+PT10125,Neha Kale,20,Female,B+,General Medicine,Arthritis,Emergency,2025-02-21,2025-02-24,HDFC ERGO,35706.36,Yes,Follow-Up Required,5,3
+PT10713,Tanvi Limaye,39,Male,AB+,General Medicine,Hypertension,Emergency,2025-03-16,2025-03-18,ICICI Lombard,41588.82,No,Recovered,4,2
+PT10289,Siddharth Naik,43,Male,B-,Cardiology,Asthma,Elective,2025-10-11,2025-10-19,HDFC ERGO,93949.87,No,Improved,3,8
+PT10238,Sneha Patil,22,Female,B+,Pulmonology,Arthritis,Urgent,2025-05-20,2025-05-23,Self-Pay,53526.91,Yes,Recovered,4,3
+PT10000,Sneha Patil,32,Male,B+,Pulmonology,Hypertension,Elective,2025-04-13,2025-04-18,Self-Pay,65225.92,No,Recovered,4,5
+PT10444,Aarav Kulkarni,51,Male,O+,Cardiology,Hypertension,Elective,2025-08-11,2025-08-19,Self-Pay,71322.45,No,Recovered,4,8
+PT10757,Ananya Chitale,31,Male,AB-,Cardiology,Asthma,Elective,2025-06-09,2025-06-19,Niva Bupa,100407.27,Yes,Improved,4,10
+PT10395,Rohan Joshi,63,Female,B-,General Medicine,Diabetes,Elective,2025-08-17,2025-08-23,Star Health,80669.89,No,Improved,5,6
+PT10518,Sneha Patil,81,Female,AB+,Pulmonology,Hypertension,Elective,2025-09-22,2025-09-28,ICICI Lombard,68089.86,No,Follow-Up Required,5,6
+PT10126,Aditya Bhosale,19,Male,O-,General Medicine,Cardiac Care,Urgent,2025-04-06,2025-04-08,Star Health,66686.74,No,Follow-Up Required,4,2
+PT10278,Rutuja Shirke,30,Male,A-,General Medicine,Hypertension,Urgent,2025-06-07,2025-06-08,Self-Pay,27178.6,No,Recovered,4,1
+PT10673,Neha Kale,47,Male,B-,General Medicine,Pneumonia,Elective,2025-01-06,2025-01-11,Self-Pay,82291.63,No,Transferred,4,5
+PT10116,Ananya Chitale,61,Female,AB-,Pulmonology,Hypertension,Elective,2025-09-12,2025-09-18,HDFC ERGO,56680.68,No,Transferred,4,6
+PT10228,Aarav Kulkarni,35,Female,O+,Pulmonology,Arthritis,Elective,2025-10-25,2025-10-30,HDFC ERGO,62667.75,No,Follow-Up Required,4,5
+PT10668,Pooja Jadhav,63,Male,O+,Endocrinology,Arthritis,Urgent,2025-06-26,2025-06-28,Niva Bupa,40930.92,No,Improved,5,2
+PT10640,Vikram Gokhale,41,Male,AB+,Pulmonology,Cardiac Care,Urgent,2025-08-08,2025-08-13,ICICI Lombard,73472.85,No,Recovered,4,5
+PT10482,Rutuja Shirke,80,Female,B+,Endocrinology,Diabetes,Elective,2025-04-15,2025-04-22,ICICI Lombard,82748.27,Yes,Recovered,4,7
+PT10497,Ananya Chitale,74,Female,B-,Pulmonology,Asthma,Elective,2025-06-01,2025-06-07,Self-Pay,70559.09,Yes,Recovered,5,6
+PT10274,Tanvi Limaye,75,Male,O-,Pulmonology,Asthma,Emergency,2025-02-02,2025-02-17,ICICI Lombard,138996.56,Yes,Recovered,3,15
+PT10318,Vikram Gokhale,34,Male,O+,General Medicine,Diabetes,Emergency,2025-05-08,2025-05-12,Niva Bupa,50709.59,Yes,Recovered,4,4
+PT10591,Sneha Patil,34,Female,AB+,Pulmonology,Asthma,Elective,2025-04-27,2025-05-02,Niva Bupa,52611.86,No,Improved,3,5
+PT10144,Omkar Kelkar,34,Male,B+,Endocrinology,Pneumonia,Elective,2025-03-03,2025-03-07,HDFC ERGO,55218.26,No,Recovered,5,4
+PT10694,Vikram Gokhale,28,Female,O-,General Medicine,Diabetes,Emergency,2025-02-08,2025-02-11,ICICI Lombard,43464.8,No,Recovered,1,3
+PT10545,Ananya Chitale,31,Female,O-,Orthopedics,Cardiac Care,Urgent,2025-03-17,2025-03-20,Star Health,58844.79,No,Improved,5,3
+PT10790,Rutuja Shirke,72,Male,O+,Cardiology,Hypertension,Urgent,2025-10-19,2025-10-29,HDFC ERGO,84454.59,Yes,Recovered,3,10
+PT10679,Neha Kale,44,Male,O-,Orthopedics,Diabetes,Elective,2025-06-14,2025-06-19,Self-Pay,56204.04,Yes,Follow-Up Required,3,5
+PT10369,Rutuja Shirke,49,Female,B+,Cardiology,Asthma,Urgent,2025-09-28,2025-10-05,Self-Pay,76781.41,No,Recovered,4,7
+PT10268,Sneha Patil,72,Male,B-,Orthopedics,Diabetes,Emergency,2025-10-16,2025-10-18,HDFC ERGO,42395.17,No,Recovered,4,2
+PT10629,Pooja Jadhav,23,Female,A-,Cardiology,Pneumonia,Elective,2025-07-05,2025-07-08,ICICI Lombard,68025.32,No,Follow-Up Required,3,3
+PT10307,Meera Phadke,65,Female,O+,Cardiology,Diabetes,Emergency,2025-10-29,2025-11-01,HDFC ERGO,48938.47,No,Recovered,3,3
+PT10423,Sneha Patil,75,Female,B+,Cardiology,Diabetes,Emergency,2025-10-12,2025-10-13,Niva Bupa,33380.23,No,Recovered,4,1
+PT10310,Aditya Bhosale,75,Male,A-,Orthopedics,Hypertension,Urgent,2025-04-09,2025-04-13,Self-Pay,53228.62,No,Recovered,3,4
+PT10354,Rohan Joshi,66,Female,B-,Endocrinology,Arthritis,Urgent,2025-10-15,2025-10-25,Niva Bupa,110932.81,No,Recovered,4,10
+PT10046,Rohan Joshi,18,Male,B+,Cardiology,Cardiac Care,Elective,2025-09-22,2025-09-23,Self-Pay,53140.67,Yes,Recovered,5,1
+PT10349,Pooja Jadhav,25,Female,O+,Orthopedics,Asthma,Urgent,2025-09-21,2025-09-28,Self-Pay,89391.8,No,Follow-Up Required,1,7
+PT10371,Meera Phadke,27,Male,A-,General Medicine,Hypertension,Emergency,2025-04-11,2025-04-18,Star Health,67593.1,No,Recovered,5,7
+PT10824,Siddharth Naik,68,Female,O+,Cardiology,Asthma,Urgent,2025-08-19,2025-08-23,ICICI Lombard,53305.44,Yes,Improved,4,4
+PT10261,Priya Deshmukh,80,Male,A-,General Medicine,Pneumonia,Emergency,2025-07-13,2025-07-15,Self-Pay,58689.85,No,Recovered,3,2
+PT10195,Aarav Kulkarni,52,Female,B-,Orthopedics,Asthma,Emergency,2025-08-06,2025-08-14,ICICI Lombard,99346.38,No,Improved,4,8
+PT10032,Tanvi Limaye,24,Male,O+,Endocrinology,Arthritis,Emergency,2025-02-24,2025-02-27,ICICI Lombard,50305.5,No,Improved,3,3
+PT10777,Karan Sawant,26,Female,B+,Endocrinology,Asthma,Elective,2025-03-14,2025-03-15,HDFC ERGO,29872.35,No,Improved,5,1
+PT10107,Sneha Patil,25,Male,A-,General Medicine,Asthma,Urgent,2025-06-21,2025-06-25,ICICI Lombard,61679.98,Yes,Follow-Up Required,4,4
+PT10059,Rutuja Shirke,41,Male,AB+,Orthopedics,Diabetes,Emergency,2025-07-10,2025-07-22,Self-Pay,123831.95,Yes,Recovered,5,12
+PT10643,Pooja Jadhav,72,Male,B+,Pulmonology,Arthritis,Emergency,2025-02-04,2025-02-14,Self-Pay,103017.67,Yes,Follow-Up Required,1,10
+PT10512,Vikram Gokhale,68,Male,O-,Cardiology,Asthma,Elective,2025-07-06,2025-07-11,Star Health,52548.14,No,Improved,4,5
+PT10100,Rutuja Shirke,85,Male,B+,General Medicine,Cardiac Care,Emergency,2025-09-25,2025-10-03,Star Health,96263.57,No,Improved,3,8
+PT10443,Ananya Chitale,31,Male,O-,General Medicine,Asthma,Emergency,2025-06-29,2025-07-11,Self-Pay,75442.47,No,Follow-Up Required,4,12
+PT10751,Neha Kale,79,Male,O+,General Medicine,Pneumonia,Elective,2025-07-03,2025-07-10,Self-Pay,98701.43,No,Improved,4,7
+PT10780,Meera Phadke,69,Male,O+,Orthopedics,Diabetes,Emergency,2025-02-16,2025-02-18,Self-Pay,38975.35,No,Follow-Up Required,5,2
+PT10625,Aarav Kulkarni,42,Male,B+,Pulmonology,Pneumonia,Emergency,2025-05-02,2025-05-03,Self-Pay,52247.9,No,Recovered,5,1
+PT10169,Ananya Chitale,79,Female,B-,Endocrinology,Arthritis,Elective,2025-11-11,2025-11-14,ICICI Lombard,41460.64,No,Recovered,4,3
+PT10179,Neha Kale,77,Male,A-,Pulmonology,Hypertension,Urgent,2025-04-23,2025-04-26,ICICI Lombard,45600.86,No,Recovered,1,3
+PT10304,Aarav Kulkarni,18,Male,AB+,Pulmonology,Pneumonia,Emergency,2025-08-21,2025-08-23,Niva Bupa,62230.34,No,Recovered,4,2
+PT10846,Ananya Chitale,23,Female,O-,Orthopedics,Pneumonia,Elective,2025-02-11,2025-02-14,Self-Pay,53103.33,Yes,Recovered,1,3
+PT10057,Sneha Patil,27,Female,O-,Cardiology,Hypertension,Emergency,2025-09-17,2025-09-27,ICICI Lombard,66070.13,No,Improved,3,10
+PT10838,Pooja Jadhav,72,Female,A-,Pulmonology,Asthma,Urgent,2025-04-21,2025-04-26,HDFC ERGO,65517.35,No,Recovered,3,5
+PT10149,Rohan Joshi,33,Female,B-,General Medicine,Pneumonia,Urgent,2025-02-13,2025-02-23,Self-Pay,131117.43,Yes,Improved,4,10
+PT10124,Tanvi Limaye,75,Male,A-,Pulmonology,Arthritis,Urgent,2025-08-29,2025-08-31,ICICI Lombard,42486.31,No,Recovered,5,2
+PT10685,Pooja Jadhav,51,Male,B+,Cardiology,Pneumonia,Emergency,2025-01-01,2025-01-06,Star Health,80923.27,No,Recovered,2,5
+PT10754,Vikram Gokhale,47,Female,AB+,General Medicine,Pneumonia,Elective,2025-07-14,2025-07-16,HDFC ERGO,54007.17,No,Improved,4,2
+PT10185,Tanvi Limaye,52,Female,O-,Orthopedics,Pneumonia,Emergency,2025-01-02,2025-01-14,Self-Pay,137130.44,Yes,Improved,4,12
+PT10580,Omkar Kelkar,85,Female,A-,Cardiology,Pneumonia,Urgent,2025-05-21,2025-06-02,Star Health,148051.04,No,Recovered,5,12
+PT10050,Siddharth Naik,30,Male,O-,Endocrinology,Asthma,Emergency,2025-02-04,2025-02-06,Niva Bupa,31106.08,No,Recovered,5,2
+PT10341,Siddharth Naik,68,Male,B+,Endocrinology,Pneumonia,Urgent,2025-11-02,2025-11-05,ICICI Lombard,60456.37,No,Improved,5,3
+PT10446,Vikram Gokhale,37,Female,B+,Cardiology,Cardiac Care,Urgent,2025-05-27,2025-06-11,HDFC ERGO,175766.59,No,Recovered,3,15
+PT10013,Ananya Chitale,85,Female,B-,Endocrinology,Hypertension,Urgent,2025-05-30,2025-06-07,HDFC ERGO,83537.17,Yes,Recovered,5,8
+PT10523,Omkar Kelkar,22,Male,AB+,General Medicine,Arthritis,Emergency,2025-05-24,2025-05-27,Self-Pay,53194.44,No,Recovered,3,3
+PT10321,Omkar Kelkar,49,Male,AB+,General Medicine,Asthma,Elective,2025-08-11,2025-08-15,Niva Bupa,63960.44,No,Follow-Up Required,3,4
+PT10353,Tanvi Limaye,84,Male,O+,Cardiology,Cardiac Care,Urgent,2025-11-18,2025-12-03,Niva Bupa,151667.67,No,Improved,5,15
+PT10804,Neha Kale,61,Male,AB+,General Medicine,Asthma,Elective,2025-08-04,2025-08-05,Niva Bupa,27137.17,Yes,Follow-Up Required,3,1
+PT10142,Ananya Chitale,33,Male,B-,Cardiology,Diabetes,Elective,2025-06-19,2025-06-24,Niva Bupa,58740.52,No,Recovered,3,5
+PT10470,Pooja Jadhav,75,Other,A+,General Medicine,Diabetes,Emergency,2025-01-12,2025-01-15,Star Health,40035.0,No,Recovered,5,3
+PT10370,Omkar Kelkar,28,Male,O-,Orthopedics,Cardiac Care,Elective,2025-02-23,2025-02-26,Niva Bupa,65572.19,Yes,Recovered,4,3
+PT10568,Meera Phadke,54,Male,O+,Cardiology,Hypertension,Emergency,2025-10-19,2025-10-22,Niva Bupa,38507.33,No,Improved,4,3
+PT10141,Karan Sawant,72,Female,O+,Pulmonology,Cardiac Care,Emergency,2025-03-07,2025-03-17,Self-Pay,127358.54,No,Improved,2,10
+PT10399,Priya Deshmukh,39,Female,B-,Pulmonology,Cardiac Care,Emergency,2025-05-07,2025-05-10,Self-Pay,73374.35,No,Improved,3,3
+PT10493,Neha Kale,72,Male,A+,Cardiology,Pneumonia,Urgent,2025-06-26,2025-07-03,HDFC ERGO,97004.95,No,Recovered,5,7
+PT10263,Siddharth Naik,79,Female,AB+,Endocrinology,Hypertension,Emergency,2025-06-12,2025-06-16,Self-Pay,48199.51,No,Improved,3,4
+PT10320,Karan Sawant,62,Female,O+,Pulmonology,Cardiac Care,Urgent,2025-10-08,2025-10-12,Star Health,67077.17,No,Improved,2,4
+PT10019,Omkar Kelkar,69,Female,AB+,Orthopedics,Pneumonia,Urgent,2025-06-10,2025-06-13,HDFC ERGO,58971.06,No,Improved,5,3
+PT10172,Karan Sawant,85,Female,O-,Cardiology,Diabetes,Emergency,2025-08-21,2025-08-23,ICICI Lombard,37787.86,No,Follow-Up Required,4,2
+PT10706,Pooja Jadhav,58,Other,A+,General Medicine,Asthma,Emergency,2025-11-09,2025-11-14,Niva Bupa,49306.03,No,Recovered,2,5
+PT10312,Karan Sawant,38,Male,B+,General Medicine,Asthma,Elective,2025-04-26,2025-05-01,HDFC ERGO,51744.8,No,Improved,5,5
+PT10390,Priya Deshmukh,35,Male,B-,Cardiology,Hypertension,Elective,2025-04-30,2025-05-07,HDFC ERGO,57768.9,No,Recovered,5,7
+PT10689,Meera Phadke,26,Female,AB-,General Medicine,Asthma,Emergency,2025-09-17,2025-09-20,Self-Pay,46605.94,No,Recovered,4,3
+PT10407,Ananya Chitale,49,Male,B+,Endocrinology,Arthritis,Elective,2025-05-06,2025-05-12,HDFC ERGO,66290.85,Yes,Follow-Up Required,5,6
+PT10544,Neha Kale,72,Female,O+,Orthopedics,Arthritis,Elective,2025-08-27,2025-08-28,Self-Pay,29505.77,No,Improved,2,1
+PT10038,Ananya Chitale,59,Female,A-,General Medicine,Asthma,Emergency,2025-01-21,2025-01-24,Star Health,46583.76,No,Recovered,4,3
+PT10175,Omkar Kelkar,52,Female,B+,General Medicine,Asthma,Elective,2025-11-14,2025-11-16,Niva Bupa,41802.87,No,Transferred,5,2
+PT10245,Pooja Jadhav,73,Female,A-,Cardiology,Arthritis,Emergency,2025-10-31,2025-11-04,Star Health,33424.67,No,Recovered,5,4
+PT10722,Pooja Jadhav,57,Female,AB-,Cardiology,Pneumonia,Elective,2025-11-04,2025-11-06,Self-Pay,52129.5,No,Follow-Up Required,5,2
+PT10587,Aditya Bhosale,60,Female,O-,Orthopedics,Pneumonia,Urgent,2025-01-01,2025-01-06,Star Health,79898.89,No,Transferred,5,5
+PT10659,Ananya Chitale,25,Female,A+,Pulmonology,Hypertension,Emergency,2025-08-12,2025-08-17,Niva Bupa,60767.95,No,Recovered,5,5
+PT10745,Siddharth Naik,23,Female,A+,Pulmonology,Arthritis,Emergency,2025-04-21,2025-04-27,ICICI Lombard,67213.0,No,Recovered,4,6
+PT10154,Siddharth Naik,47,Male,A-,Pulmonology,Asthma,Elective,2025-08-13,2025-08-15,Self-Pay,30274.08,No,Follow-Up Required,4,2
+PT10287,Sneha Patil,69,Female,AB-,Endocrinology,Pneumonia,Urgent,2025-10-13,2025-10-14,HDFC ERGO,55428.32,No,Recovered,4,1
+PT10527,Ananya Chitale,18,Female,B+,General Medicine,Arthritis,Elective,2025-02-22,2025-03-04,ICICI Lombard,99109.7,No,Follow-Up Required,3,10
+PT10017,Neha Kale,51,Female,B-,Pulmonology,Asthma,Urgent,2025-07-11,2025-07-26,Self-Pay,102608.66,No,Follow-Up Required,4,15
+PT10127,Pooja Jadhav,61,Male,AB+,Endocrinology,Hypertension,Emergency,2025-08-10,2025-08-18,Niva Bupa,77337.2,Yes,Follow-Up Required,2,8
+PT10322,Omkar Kelkar,61,Male,O+,Endocrinology,Hypertension,Emergency,2025-02-23,2025-02-26,HDFC ERGO,29833.94,No,Follow-Up Required,2,3
+PT10255,Aarav Kulkarni,34,Female,A-,Orthopedics,Arthritis,Elective,2025-04-14,2025-04-17,Self-Pay,34642.44,Yes,Improved,5,3
+PT10026,Rutuja Shirke,53,Male,O+,General Medicine,Diabetes,Elective,2025-06-19,2025-06-29,HDFC ERGO,82508.25,No,Recovered,2,10
+PT10836,Aarav Kulkarni,83,Female,O+,Pulmonology,Hypertension,Emergency,2025-04-19,2025-04-23,HDFC ERGO,57494.39,No,Recovered,4,4
+PT10190,Siddharth Naik,24,Female,AB-,Cardiology,Arthritis,Elective,2025-08-13,2025-08-17,Star Health,50790.77,No,Recovered,4,4
+PT10115,Priya Deshmukh,22,Female,A-,General Medicine,Hypertension,Elective,2025-08-06,2025-08-09,HDFC ERGO,51436.29,No,Follow-Up Required,5,3
+PT10707,Meera Phadke,68,Female,B-,Pulmonology,Hypertension,Emergency,2025-04-22,2025-04-24,Self-Pay,41072.22,No,Recovered,5,2
+PT10180,Aarav Kulkarni,29,Male,A-,Pulmonology,Hypertension,Urgent,2025-04-11,2025-04-15,HDFC ERGO,51527.86,No,Improved,3,4
+PT10301,Rohan Joshi,34,Male,O+,Endocrinology,Pneumonia,Emergency,2025-02-15,2025-02-21,Niva Bupa,89558.69,No,Improved,3,6
+PT10664,Pooja Jadhav,49,Male,B-,General Medicine,Cardiac Care,Elective,2025-03-04,2025-03-11,Niva Bupa,108889.03,No,Improved,3,7
+PT10623,Karan Sawant,80,Female,A+,Endocrinology,Pneumonia,Elective,2025-06-05,2025-06-10,Self-Pay,78280.29,Yes,Improved,4,5
+PT10634,Meera Phadke,60,Female,B+,Pulmonology,Pneumonia,Elective,2025-02-10,2025-02-14,Niva Bupa,71938.05,No,Improved,4,4
+PT10601,Priya Deshmukh,57,Male,AB+,Orthopedics,Diabetes,Emergency,2025-03-21,2025-03-25,Self-Pay,49692.9,No,Recovered,3,4
+PT10581,Siddharth Naik,50,Female,B-,General Medicine,Pneumonia,Emergency,2025-08-30,2025-09-01,Niva Bupa,49566.47,No,Recovered,5,2
+PT10517,Meera Phadke,43,Male,B-,Endocrinology,Arthritis,Emergency,2025-03-17,2025-03-21,HDFC ERGO,48446.85,No,Improved,5,4
+PT10045,Ananya Chitale,71,Male,O-,Orthopedics,Arthritis,Elective,2025-08-30,2025-09-01,Niva Bupa,34929.28,No,Recovered,5,2
+PT10788,Tanvi Limaye,19,Female,A+,Orthopedics,Arthritis,Emergency,2025-03-02,2025-03-07,ICICI Lombard,66164.94,No,Recovered,4,5
+PT10157,Karan Sawant,49,Female,B+,Orthopedics,Pneumonia,Emergency,2025-04-26,2025-04-30,ICICI Lombard,80916.96,No,Recovered,4,4
+PT10650,Priya Deshmukh,29,Female,O-,Cardiology,Hypertension,Elective,2025-11-08,2025-11-11,Self-Pay,48375.93,No,Improved,1,3
+PT10171,Pooja Jadhav,43,Male,AB-,General Medicine,Pneumonia,Urgent,2025-04-06,2025-04-09,ICICI Lombard,65213.08,Yes,Improved,3,3
+PT10016,Karan Sawant,36,Female,A+,General Medicine,Cardiac Care,Urgent,2025-10-21,2025-10-24,Star Health,54322.37,No,Recovered,4,3
+PT10511,Neha Kale,20,Female,O+,General Medicine,Pneumonia,Emergency,2025-08-05,2025-08-08,ICICI Lombard,70163.91,No,Recovered,5,3
+PT10048,Karan Sawant,62,Male,AB+,General Medicine,Hypertension,Emergency,2025-04-02,2025-04-05,Niva Bupa,33290.15,No,Transferred,3,3
+PT10842,Meera Phadke,42,Female,O+,Cardiology,Hypertension,Elective,2025-04-21,2025-04-25,Niva Bupa,50889.3,No,Recovered,4,4
+PT10730,Aarav Kulkarni,21,Male,AB+,Cardiology,Diabetes,Elective,2025-05-13,2025-05-28,Self-Pay,155344.34,Yes,Recovered,5,15
+PT10515,Vikram Gokhale,52,Male,O-,Cardiology,Diabetes,Emergency,2025-04-10,2025-04-12,Niva Bupa,39828.65,No,Recovered,4,2
+PT10602,Priya Deshmukh,55,Female,AB+,Cardiology,Cardiac Care,Emergency,2025-08-01,2025-08-03,Star Health,57465.69,No,Recovered,4,2
+PT10480,Sneha Patil,36,Female,AB-,General Medicine,Arthritis,Elective,2025-03-31,2025-04-04,ICICI Lombard,58541.73,No,Improved,2,4
+PT10283,Vikram Gokhale,77,Male,O+,Endocrinology,Pneumonia,Urgent,2025-10-10,2025-10-14,Niva Bupa,78889.53,No,Follow-Up Required,4,4
+PT10575,Sneha Patil,29,Male,O+,Orthopedics,Pneumonia,Emergency,2025-07-21,2025-07-22,Self-Pay,59479.9,No,Improved,3,1
+PT10225,Omkar Kelkar,30,Male,A-,General Medicine,Pneumonia,Elective,2025-05-09,2025-05-10,Star Health,54440.28,No,Recovered,5,1
+PT10828,Tanvi Limaye,68,Male,A+,General Medicine,Hypertension,Elective,2025-01-25,2025-01-28,ICICI Lombard,46492.04,Yes,Improved,5,3
+PT10437,Vikram Gokhale,30,Female,O-,Endocrinology,Cardiac Care,Emergency,2025-09-07,2025-09-09,Self-Pay,50336.28,No,Recovered,5,2
+PT10364,Aarav Kulkarni,30,Female,AB-,Orthopedics,Cardiac Care,Emergency,2025-02-27,2025-03-09,HDFC ERGO,123911.49,No,Transferred,1,10
+PT10229,Meera Phadke,77,Female,B+,Pulmonology,Arthritis,Urgent,2025-04-09,2025-04-11,HDFC ERGO,34065.18,Yes,Recovered,5,2
+PT10037,Aarav Kulkarni,73,Female,AB-,Cardiology,Asthma,Urgent,2025-05-15,2025-05-19,ICICI Lombard,43658.22,No,Recovered,4,4
+PT10837,Karan Sawant,51,Female,O+,General Medicine,Cardiac Care,Elective,2025-05-26,2025-05-31,Niva Bupa,84491.68,Yes,Follow-Up Required,5,5
+PT10374,Neha Kale,57,Male,AB-,Cardiology,Asthma,Emergency,2025-03-01,2025-03-03,ICICI Lombard,28221.25,No,Transferred,1,2
+PT10469,Pooja Jadhav,49,Male,A+,Cardiology,Cardiac Care,Urgent,2025-10-12,2025-10-15,Niva Bupa,66976.71,Yes,Improved,4,3
+PT10839,Aarav Kulkarni,18,Other,A+,Endocrinology,Diabetes,Urgent,2025-08-16,2025-08-20,ICICI Lombard,43409.47,No,Transferred,4,4
+PT10739,Tanvi Limaye,70,Male,AB-,Endocrinology,Cardiac Care,Urgent,2025-02-22,2025-02-24,HDFC ERGO,70338.69,Yes,Improved,5,2
+PT10636,Sneha Patil,68,Female,O-,Pulmonology,Cardiac Care,Emergency,2025-07-11,2025-07-17,Self-Pay,87537.31,No,Recovered,5,6
+PT10194,Neha Kale,38,Female,B-,Cardiology,Asthma,Urgent,2025-06-21,2025-06-23,Self-Pay,38070.59,Yes,Recovered,4,2
+PT10741,Meera Phadke,31,Male,A-,Cardiology,Diabetes,Emergency,2025-05-06,2025-05-11,Self-Pay,63718.52,No,Improved,4,5
+PT10750,Aarav Kulkarni,31,Male,O-,Orthopedics,Arthritis,Emergency,2025-01-08,2025-01-12,Star Health,56987.11,No,Recovered,5,4
+PT10503,Siddharth Naik,64,Male,B+,Pulmonology,Pneumonia,Elective,2025-07-02,2025-07-04,ICICI Lombard,61045.9,No,Transferred,4,2
+PT10841,Aditya Bhosale,23,Male,AB-,Orthopedics,Hypertension,Elective,2025-02-03,2025-02-10,ICICI Lombard,62742.75,No,Recovered,4,7
+PT10723,Rutuja Shirke,45,Female,O-,Pulmonology,Hypertension,Elective,2025-09-06,2025-09-09,ICICI Lombard,47217.56,Yes,Follow-Up Required,3,3
+PT10840,Aditya Bhosale,55,Female,AB+,Pulmonology,Asthma,Emergency,2025-04-21,2025-04-24,HDFC ERGO,49540.94,No,Improved,2,3
+PT10162,Aditya Bhosale,53,Male,B-,Orthopedics,Arthritis,Emergency,2025-11-14,2025-11-20,Self-Pay,58300.57,Yes,Improved,3,6
+PT10615,Omkar Kelkar,85,Male,AB+,General Medicine,Cardiac Care,Emergency,2025-01-01,2025-01-02,Niva Bupa,58129.41,Yes,Follow-Up Required,5,1
+PT10152,Priya Deshmukh,22,Male,A+,Pulmonology,Asthma,Emergency,2025-08-19,2025-09-03,ICICI Lombard,101289.11,No,Recovered,3,15
+PT10597,Karan Sawant,83,Female,O-,Cardiology,Diabetes,Urgent,2025-06-22,2025-06-25,Star Health,52346.87,No,Improved,5,3
+PT10660,Rutuja Shirke,49,Male,B-,Pulmonology,Asthma,Elective,2025-08-27,2025-08-28,Star Health,42047.66,No,Improved,3,1
+PT10111,Vikram Gokhale,66,Female,O+,Endocrinology,Cardiac Care,Emergency,2025-04-11,2025-04-18,Self-Pay,87697.95,No,Recovered,4,7
+PT10226,Meera Phadke,48,Female,O-,General Medicine,Hypertension,Emergency,2025-09-24,2025-09-30,HDFC ERGO,54342.47,Yes,Recovered,1,6
+PT10603,Tanvi Limaye,77,Female,B-,General Medicine,Arthritis,Emergency,2025-07-22,2025-07-28,Star Health,76816.52,No,Recovered,5,6
+PT10103,Neha Kale,56,Female,O+,Cardiology,Pneumonia,Emergency,2025-03-03,2025-03-06,Self-Pay,63230.29,No,Recovered,4,3
+PT10421,Rohan Joshi,42,Female,O-,Cardiology,Diabetes,Emergency,2025-03-27,2025-04-08,Self-Pay,76995.38,Yes,Recovered,5,12
+PT10419,Meera Phadke,47,Female,A-,Cardiology,Cardiac Care,Elective,2025-06-03,2025-06-08,ICICI Lombard,86278.75,No,Follow-Up Required,4,5
+PT10586,Siddharth Naik,75,Female,O-,Orthopedics,Hypertension,Emergency,2025-11-13,2025-11-19,Self-Pay,77386.38,No,Follow-Up Required,2,6
+PT10119,Karan Sawant,38,Female,A-,Pulmonology,Asthma,Emergency,2025-01-15,2025-01-20,HDFC ERGO,53203.8,No,Recovered,3,5
+PT10053,Rohan Joshi,26,Male,O-,General Medicine,Arthritis,Elective,2025-02-19,2025-02-23,Self-Pay,67460.4,No,Recovered,4,4
+PT10151,Rutuja Shirke,40,Female,O+,Cardiology,Hypertension,Emergency,2025-05-08,2025-05-09,Self-Pay,37144.08,Yes,Follow-Up Required,4,1
+PT10403,Priya Deshmukh,46,Female,B+,Pulmonology,Asthma,Urgent,2025-01-01,2025-01-16,Self-Pay,104537.93,No,Recovered,4,15
+PT10820,Siddharth Naik,43,Male,A+,Pulmonology,Arthritis,Emergency,2025-01-28,2025-02-03,Self-Pay,48291.23,No,Recovered,5,6
+PT10207,Siddharth Naik,31,Male,B-,Endocrinology,Diabetes,Urgent,2025-04-08,2025-04-12,ICICI Lombard,52217.89,No,Recovered,5,4
+PT10733,Meera Phadke,64,Female,B+,Orthopedics,Arthritis,Emergency,2025-07-03,2025-07-04,Self-Pay,25641.89,No,Recovered,3,1
+PT10666,Aditya Bhosale,29,Male,O+,Pulmonology,Pneumonia,Elective,2025-11-11,2025-11-26,Niva Bupa,170923.47,No,Improved,5,15
+PT10704,Priya Deshmukh,69,Male,A-,Endocrinology,Pneumonia,Emergency,2025-08-10,2025-08-15,Self-Pay,76108.37,No,Recovered,4,5
+PT10036,Pooja Jadhav,80,Male,A+,Endocrinology,Arthritis,Elective,2025-11-03,2025-11-04,Star Health,34650.51,No,Follow-Up Required,3,1
+PT10452,Meera Phadke,37,Male,AB+,Endocrinology,Cardiac Care,Elective,2025-10-07,2025-10-13,Star Health,105571.15,No,Transferred,4,6
+PT10253,Pooja Jadhav,21,Other,B-,Cardiology,Diabetes,Emergency,2025-03-16,2025-03-18,Star Health,42216.73,Yes,Recovered,5,2
+PT10303,Neha Kale,58,Other,B-,Endocrinology,Hypertension,Elective,2025-04-09,2025-04-13,HDFC ERGO,51497.39,No,Recovered,2,4
+PT10652,Siddharth Naik,24,Female,O-,Cardiology,Pneumonia,Elective,2025-08-30,2025-08-31,HDFC ERGO,52238.76,Yes,Follow-Up Required,2,1
+PT10571,Priya Deshmukh,20,Female,B-,Cardiology,Arthritis,Urgent,2025-10-02,2025-10-05,Self-Pay,40945.85,No,Recovered,3,3
+PT10621,Vikram Gokhale,45,Female,AB-,Endocrinology,Asthma,Elective,2025-08-12,2025-08-16,ICICI Lombard,59515.55,No,Recovered,4,4
+PT10630,Sneha Patil,56,Male,B-,Pulmonology,Pneumonia,Emergency,2025-11-12,2025-11-13,Niva Bupa,48156.94,No,Follow-Up Required,5,1
+PT10262,Aarav Kulkarni,80,Male,AB-,Orthopedics,Asthma,Elective,2025-11-06,2025-11-13,HDFC ERGO,58588.39,No,Recovered,4,7
+PT10610,Priya Deshmukh,49,Female,O+,Pulmonology,Cardiac Care,Emergency,2025-02-16,2025-02-20,ICICI Lombard,81289.07,No,Follow-Up Required,5,4
+PT10297,Rohan Joshi,38,Male,A-,Endocrinology,Cardiac Care,Elective,2025-01-17,2025-01-20,ICICI Lombard,55166.86,No,Recovered,5,3
+PT10414,Aditya Bhosale,49,Male,A+,General Medicine,Diabetes,Elective,2025-07-11,2025-07-12,Star Health,37258.54,No,Recovered,4,1
+PT10150,Karan Sawant,47,Male,B+,Endocrinology,Pneumonia,Elective,2025-10-13,2025-10-16,Niva Bupa,59078.62,No,Recovered,5,3
+PT10687,Neha Kale,22,Female,AB-,Endocrinology,Hypertension,Emergency,2025-06-22,2025-06-25,ICICI Lombard,47965.04,No,Improved,3,3
+PT10770,Omkar Kelkar,31,Female,O-,Cardiology,Cardiac Care,Emergency,2025-08-21,2025-08-26,HDFC ERGO,77263.82,No,Recovered,5,5
+PT10550,Pooja Jadhav,62,Female,AB-,General Medicine,Cardiac Care,Elective,2025-01-07,2025-01-09,Self-Pay,60469.88,No,Recovered,3,2
+PT10488,Sneha Patil,81,Female,O+,Orthopedics,Cardiac Care,Urgent,2025-10-04,2025-10-10,Self-Pay,87613.08,No,Improved,4,6
+PT10147,Rohan Joshi,25,Female,AB-,Cardiology,Asthma,Emergency,2025-01-28,2025-02-03,HDFC ERGO,75962.02,No,Recovered,5,6
+PT10146,Pooja Jadhav,29,Female,O+,General Medicine,Diabetes,Elective,2025-10-11,2025-10-14,Niva Bupa,55174.01,No,Improved,5,3
+PT10631,Aarav Kulkarni,69,Female,O-,Cardiology,Hypertension,Emergency,2025-06-27,2025-06-28,Self-Pay,23942.83,No,Recovered,4,1
+PT10807,Vikram Gokhale,26,Female,B+,Cardiology,Cardiac Care,Emergency,2025-07-06,2025-07-07,Niva Bupa,57311.76,No,Recovered,5,1
+PT10817,Siddharth Naik,64,Female,O+,Endocrinology,Pneumonia,Elective,2025-01-15,2025-01-20,Niva Bupa,87548.01,No,Recovered,3,5
+PT10348,Aarav Kulkarni,55,Female,A-,Endocrinology,Cardiac Care,Urgent,2025-11-17,2025-11-22,Niva Bupa,74236.4,Yes,Improved,4,5
+PT10463,Ananya Chitale,74,Male,O+,General Medicine,Cardiac Care,Emergency,2025-11-19,2025-12-01,ICICI Lombard,122652.67,No,Follow-Up Required,2,12
+PT10325,Rutuja Shirke,60,Male,A-,General Medicine,Asthma,Emergency,2025-06-23,2025-06-24,HDFC ERGO,31500.61,No,Recovered,4,1
+PT10186,Pooja Jadhav,47,Male,A+,Cardiology,Cardiac Care,Elective,2025-05-10,2025-05-12,ICICI Lombard,52895.65,No,Recovered,4,2
+PT10123,Karan Sawant,61,Female,O-,Endocrinology,Diabetes,Emergency,2025-08-19,2025-08-23,Niva Bupa,56032.37,No,Follow-Up Required,5,4
+PT10740,Sneha Patil,63,Female,B-,Orthopedics,Cardiac Care,Emergency,2025-07-24,2025-07-29,Self-Pay,72914.92,No,Improved,4,5
+PT10608,Rohan Joshi,66,Female,O+,Orthopedics,Hypertension,Emergency,2025-05-27,2025-05-30,HDFC ERGO,35078.9,No,Recovered,5,3
+PT10143,Karan Sawant,29,Male,B-,General Medicine,Cardiac Care,Emergency,2025-02-14,2025-02-16,ICICI Lombard,59288.36,Yes,Recovered,5,2
+PT10831,Neha Kale,45,Female,AB+,Cardiology,Pneumonia,Urgent,2025-07-31,2025-08-03,Self-Pay,59654.88,No,Improved,3,3
+PT10197,Aditya Bhosale,19,Female,AB+,Pulmonology,Arthritis,Elective,2025-07-17,2025-07-19,Niva Bupa,33785.95,Yes,Recovered,3,2
+PT10609,Rohan Joshi,81,Male,O+,General Medicine,Pneumonia,Elective,2025-01-20,2025-01-24,Self-Pay,69764.83,No,Recovered,2,4
+PT10279,Tanvi Limaye,70,Male,A+,Pulmonology,Diabetes,Emergency,2025-02-07,2025-02-15,Self-Pay,70870.3,Yes,Improved,5,8
+PT10293,Neha Kale,69,Male,A-,Pulmonology,Asthma,Elective,2025-01-04,2025-01-09,Self-Pay,67774.16,Yes,Transferred,5,5
+PT10400,Sneha Patil,46,Female,O+,Cardiology,Cardiac Care,Elective,2025-05-09,2025-05-13,Niva Bupa,72700.69,No,Transferred,4,4
+PT10122,Rutuja Shirke,49,Female,B-,Orthopedics,Arthritis,Elective,2025-03-04,2025-03-09,Star Health,64274.04,No,Improved,2,5
+PT10183,Rohan Joshi,55,Male,B+,Endocrinology,Diabetes,Elective,2025-07-06,2025-07-11,ICICI Lombard,59665.77,No,Recovered,5,5
+PT10202,Sneha Patil,83,Female,AB+,General Medicine,Cardiac Care,Emergency,2025-05-03,2025-05-09,Niva Bupa,94346.98,No,Follow-Up Required,4,6
+PT10438,Vikram Gokhale,26,Female,A-,Pulmonology,Arthritis,Emergency,2025-01-10,2025-01-12,ICICI Lombard,38574.7,No,Recovered,4,2
+PT10246,Aditya Bhosale,26,Male,B+,Cardiology,Asthma,Elective,2025-07-27,2025-07-30,HDFC ERGO,43489.23,No,Recovered,2,3
+PT10415,Ananya Chitale,80,Other,AB-,Orthopedics,Hypertension,Urgent,2025-03-10,2025-03-11,HDFC ERGO,22491.69,No,Recovered,3,1
+PT10848,Pooja Jadhav,25,Male,A+,Pulmonology,Arthritis,Elective,2025-01-06,2025-01-10,Self-Pay,60528.33,No,Recovered,4,4
+PT10129,Tanvi Limaye,52,Male,AB+,Orthopedics,Hypertension,Emergency,2025-08-25,2025-08-28,Star Health,44333.14,No,Recovered,5,3
+PT10637,Pooja Jadhav,28,Male,O+,Pulmonology,Arthritis,Emergency,2025-05-25,2025-05-27,HDFC ERGO,36572.72,No,Follow-Up Required,1,2
+PT10402,Rohan Joshi,19,Female,AB+,General Medicine,Asthma,Emergency,2025-05-02,2025-05-09,Niva Bupa,72104.79,No,Transferred,4,7
+PT10732,Karan Sawant,42,Male,A-,General Medicine,Diabetes,Elective,2025-05-18,2025-05-20,ICICI Lombard,42896.68,No,Follow-Up Required,4,2
+PT10672,Aditya Bhosale,38,Female,O-,Orthopedics,Diabetes,Urgent,2025-11-07,2025-11-11,Star Health,68417.32,No,Recovered,3,4
+PT10791,Rohan Joshi,33,Male,A-,Cardiology,Asthma,Urgent,2025-09-14,2025-09-19,Self-Pay,48359.31,Yes,Recovered,4,5
+PT10219,Vikram Gokhale,42,Female,A-,Pulmonology,Pneumonia,Elective,2025-05-27,2025-06-01,Self-Pay,66597.29,Yes,Improved,3,5
+PT10641,Omkar Kelkar,58,Male,A+,General Medicine,Hypertension,Emergency,2025-08-28,2025-09-02,Niva Bupa,65127.25,No,Recovered,2,5
+PT10793,Rohan Joshi,65,Female,AB+,General Medicine,Arthritis,Emergency,2025-04-23,2025-04-28,Self-Pay,48056.58,No,Transferred,4,5
+PT10657,Pooja Jadhav,50,Male,AB+,Endocrinology,Pneumonia,Emergency,2025-03-06,2025-03-11,Niva Bupa,81063.38,No,Recovered,2,5
+PT10796,Ananya Chitale,52,Male,O-,Pulmonology,Arthritis,Elective,2025-07-26,2025-07-27,Star Health,43551.22,Yes,Recovered,3,1
+PT10624,Sneha Patil,83,Female,B-,General Medicine,Diabetes,Emergency,2025-01-08,2025-01-12,Niva Bupa,56297.67,No,Recovered,3,4
+PT10785,Siddharth Naik,85,Female,AB-,Orthopedics,Asthma,Emergency,2025-04-17,2025-04-20,ICICI Lombard,50944.29,No,Improved,3,3
+PT10665,Meera Phadke,26,Male,B-,Cardiology,Asthma,Emergency,2025-08-05,2025-08-07,Niva Bupa,30829.31,No,Transferred,4,2
+PT10386,Karan Sawant,49,Female,AB+,Cardiology,Arthritis,Elective,2025-04-16,2025-04-24,Niva Bupa,65607.85,No,Recovered,5,8
+PT10843,Rohan Joshi,34,Male,A+,Endocrinology,Arthritis,Urgent,2025-09-21,2025-09-25,Star Health,56020.39,No,Improved,3,4
+PT10509,Pooja Jadhav,27,Male,A-,Orthopedics,Hypertension,Urgent,2025-03-03,2025-03-07,Niva Bupa,54452.97,No,Transferred,3,4
+PT10267,Tanvi Limaye,22,Female,B+,Endocrinology,Arthritis,Urgent,2025-03-09,2025-03-10,Star Health,34588.1,No,Recovered,5,1
+PT10714,Tanvi Limaye,34,Male,O+,Cardiology,Hypertension,Emergency,2025-04-13,2025-04-20,ICICI Lombard,65974.37,No,Recovered,5,7
+PT10441,Rohan Joshi,71,Female,B+,Endocrinology,Asthma,Emergency,2025-04-10,2025-04-13,Star Health,42145.35,No,Follow-Up Required,2,3
+PT10496,Priya Deshmukh,64,Female,B+,Cardiology,Hypertension,Emergency,2025-04-06,2025-04-11,Self-Pay,64212.19,No,Improved,4,5
+PT10112,Pooja Jadhav,77,Female,B-,Cardiology,Asthma,Urgent,2025-05-11,2025-05-12,Star Health,34145.76,No,Recovered,5,1
+PT10232,Priya Deshmukh,49,Male,O-,Endocrinology,Pneumonia,Emergency,2025-05-24,2025-05-29,Self-Pay,67360.26,Yes,Improved,4,5
+PT10755,Ananya Chitale,49,Male,B+,General Medicine,Hypertension,Elective,2025-06-04,2025-06-05,HDFC ERGO,30591.24,No,Recovered,3,1
+PT10607,Sneha Patil,80,Female,B+,General Medicine,Cardiac Care,Urgent,2025-08-15,2025-08-16,ICICI Lombard,57072.32,No,Recovered,3,1
+PT10373,Priya Deshmukh,34,Female,AB-,Endocrinology,Asthma,Elective,2025-02-22,2025-02-26,ICICI Lombard,44872.13,No,Recovered,5,4
+PT10233,Siddharth Naik,60,Female,A+,General Medicine,Hypertension,Elective,2025-04-22,2025-04-29,ICICI Lombard,83126.65,No,Recovered,5,7
+PT10684,Pooja Jadhav,37,Male,B-,Orthopedics,Asthma,Emergency,2025-03-19,2025-03-26,Self-Pay,92077.27,No,Improved,3,7
+PT10317,Sneha Patil,66,Female,B+,Endocrinology,Cardiac Care,Emergency,2025-11-19,2025-11-21,Niva Bupa,49276.68,No,Recovered,3,2
+PT10648,Neha Kale,59,Female,O-,Pulmonology,Diabetes,Emergency,2025-10-30,2025-11-04,ICICI Lombard,48623.66,No,Recovered,4,5
+PT10410,Ananya Chitale,60,Male,AB-,Orthopedics,Arthritis,Emergency,2025-03-30,2025-04-02,ICICI Lombard,49696.54,Yes,Recovered,4,3
+PT10779,Siddharth Naik,50,Male,B-,Endocrinology,Cardiac Care,Urgent,2025-09-06,2025-09-11,HDFC ERGO,70010.36,No,Recovered,4,5
+PT10358,Pooja Jadhav,49,Female,AB-,Cardiology,Cardiac Care,Emergency,2025-07-05,2025-07-07,Niva Bupa,57891.9,No,Follow-Up Required,4,2
+PT10258,Sneha Patil,53,Female,B-,Cardiology,Arthritis,Urgent,2025-04-22,2025-04-25,Niva Bupa,42278.29,No,Recovered,3,3
+PT10627,Priya Deshmukh,61,Female,AB-,Cardiology,Cardiac Care,Emergency,2025-03-31,2025-04-04,Self-Pay,70994.0,No,Recovered,5,4
+PT10632,Tanvi Limaye,40,Male,AB-,General Medicine,Pneumonia,Emergency,2025-01-28,2025-01-31,Self-Pay,70632.52,No,Recovered,4,3
+PT10282,Neha Kale,53,Male,O+,Endocrinology,Arthritis,Elective,2025-09-21,2025-09-23,Self-Pay,40327.64,No,Recovered,5,2
+PT10376,Vikram Gokhale,72,Male,B+,General Medicine,Diabetes,Elective,2025-01-05,2025-01-06,ICICI Lombard,38637.47,No,Improved,4,1
+PT10384,Tanvi Limaye,63,Female,O+,General Medicine,Hypertension,Urgent,2025-09-26,2025-09-29,ICICI Lombard,45076.75,No,Recovered,4,3
+PT10224,Meera Phadke,49,Female,AB-,Cardiology,Diabetes,Elective,2025-02-08,2025-02-09,Niva Bupa,29520.74,No,Recovered,4,1
+PT10826,Rutuja Shirke,37,Male,O+,Pulmonology,Arthritis,Emergency,2025-05-06,2025-05-09,Self-Pay,27077.78,Yes,Improved,2,3
+PT10710,Meera Phadke,74,Male,AB-,Cardiology,Cardiac Care,Elective,2025-07-26,2025-07-28,Niva Bupa,60490.98,No,Recovered,5,2
+PT10472,Aarav Kulkarni,21,Male,A+,Endocrinology,Diabetes,Elective,2025-10-29,2025-11-03,Niva Bupa,50608.81,No,Improved,4,5
+PT10347,Karan Sawant,27,Male,O-,Orthopedics,Asthma,Emergency,2025-01-20,2025-01-25,Self-Pay,63531.29,Yes,Improved,5,5
+PT10505,Neha Kale,64,Male,AB-,General Medicine,Diabetes,Emergency,2025-10-06,2025-10-12,ICICI Lombard,60855.36,No,Recovered,4,6
+PT10639,Priya Deshmukh,25,Male,A-,Endocrinology,Asthma,Emergency,2025-07-31,2025-08-01,Star Health,24516.56,No,Recovered,2,1
+PT10844,Omkar Kelkar,78,Male,O+,Endocrinology,Hypertension,Urgent,2025-08-24,2025-08-25,Niva Bupa,33161.65,No,Improved,3,1
+PT10784,Aditya Bhosale,58,Male,B+,Endocrinology,Pneumonia,Elective,2025-02-03,2025-02-25,ICICI Lombard,64884.65,No,Recovered,4,22
+PT10619,Omkar Kelkar,49,Female,A-,Endocrinology,Pneumonia,Urgent,2025-01-12,2025-01-27,ICICI Lombard,121493.87,No,Recovered,5,15
+PT10742,Tanvi Limaye,34,Female,A-,Orthopedics,Cardiac Care,Emergency,2025-08-23,2025-08-25,HDFC ERGO,57748.12,No,Recovered,1,2
+PT10645,Aditya Bhosale,64,Female,AB+,Orthopedics,Arthritis,Elective,2025-03-23,2025-03-27,Self-Pay,42272.26,No,Improved,4,4
+PT10735,Karan Sawant,32,Male,O-,General Medicine,Arthritis,Emergency,2025-09-30,2025-10-04,Star Health,52426.48,No,Follow-Up Required,4,4
+PT10556,Meera Phadke,50,Female,A-,Cardiology,Arthritis,Urgent,2025-05-02,2025-05-07,Self-Pay,56125.39,No,Recovered,4,5
+PT10830,Pooja Jadhav,72,Female,AB+,Orthopedics,Asthma,Elective,2025-01-13,2025-01-16,ICICI Lombard,44732.3,Yes,Recovered,1,3
+PT10577,Pooja Jadhav,58,Male,O+,General Medicine,Asthma,Emergency,2025-02-08,2025-02-11,Self-Pay,36499.32,No,Improved,5,3
+PT10085,Vikram Gokhale,74,Male,B+,Orthopedics,Diabetes,Elective,2025-01-09,2025-01-13,ICICI Lombard,54687.5,Yes,Recovered,3,4
+PT10242,Priya Deshmukh,28,Male,O+,Pulmonology,Diabetes,Urgent,2025-08-21,2025-08-23,HDFC ERGO,36945.49,No,Improved,1,2
+PT10698,Pooja Jadhav,47,Male,AB-,Orthopedics,Arthritis,Emergency,2025-04-28,2025-05-06,Niva Bupa,72796.71,Yes,Recovered,2,8
+PT10159,Pooja Jadhav,33,Female,AB-,Cardiology,Hypertension,Elective,2025-09-16,2025-09-19,HDFC ERGO,47331.84,No,Recovered,5,3
+PT10524,Ananya Chitale,21,Female,B-,Orthopedics,Arthritis,Elective,2025-03-10,2025-03-15,Self-Pay,56742.11,Yes,Recovered,3,5
+PT10035,Karan Sawant,48,Male,A-,Pulmonology,Hypertension,Emergency,2025-05-11,2025-05-13,ICICI Lombard,41909.94,Yes,Recovered,4,2
+PT10540,Ananya Chitale,41,Male,O-,Orthopedics,Pneumonia,Urgent,2025-08-03,2025-08-09,Niva Bupa,78565.23,No,Recovered,4,6
+PT10170,Karan Sawant,40,Female,B-,Cardiology,Diabetes,Urgent,2025-06-09,2025-06-15,Star Health,51022.39,No,Recovered,4,6
+PT10654,Priya Deshmukh,20,Female,O-,Pulmonology,Arthritis,Emergency,2025-01-05,2025-01-09,Self-Pay,52544.66,No,Recovered,3,4
+PT10744,Pooja Jadhav,26,Male,A-,Endocrinology,Cardiac Care,Emergency,2025-08-28,2025-08-29,Star Health,55137.26,No,Improved,4,1
+PT10736,Aditya Bhosale,80,Female,A+,Cardiology,Cardiac Care,Urgent,2025-03-10,2025-03-13,Star Health,67656.92,Yes,Recovered,5,3
+PT10819,Priya Deshmukh,36,Male,A+,Orthopedics,Asthma,Emergency,2025-04-29,2025-05-05,Self-Pay,58972.06,Yes,Recovered,4,6
+PT10095,Karan Sawant,58,Female,O+,Endocrinology,Arthritis,Urgent,2025-02-10,2025-02-13,ICICI Lombard,49929.3,Yes,Recovered,4,3
+PT10563,Ananya Chitale,38,Male,O-,Endocrinology,Hypertension,Elective,2025-05-25,2025-05-27,ICICI Lombard,39777.82,No,Transferred,5,2
+PT10240,Aarav Kulkarni,27,Female,O-,Orthopedics,Hypertension,Elective,2025-06-09,2025-06-10,HDFC ERGO,25783.9,No,Recovered,2,1
+PT10574,Siddharth Naik,36,Male,O+,Endocrinology,Hypertension,Elective,2025-04-01,2025-04-03,HDFC ERGO,37429.53,No,Recovered,5,2
+PT10690,Omkar Kelkar,67,Female,A+,Orthopedics,Diabetes,Urgent,2025-10-15,2025-10-30,HDFC ERGO,115122.17,No,Recovered,4,15
+PT10460,Omkar Kelkar,63,Male,O+,General Medicine,Pneumonia,Elective,2025-06-28,2025-06-30,HDFC ERGO,67333.35,No,Transferred,5,2
+PT10553,Rohan Joshi,38,Male,O-,General Medicine,Hypertension,Emergency,2025-06-17,2025-06-20,HDFC ERGO,46669.64,No,Recovered,5,3
+PT10761,Vikram Gokhale,68,Female,B-,General Medicine,Pneumonia,Emergency,2025-10-04,2025-10-14,Self-Pay,100161.27,Yes,Improved,3,10
+PT10206,Tanvi Limaye,53,Male,AB-,Cardiology,Asthma,Emergency,2025-11-21,2025-11-24,ICICI Lombard,33872.08,No,Improved,3,3
+PT10392,Sneha Patil,30,Female,O-,Endocrinology,Asthma,Elective,2025-10-02,2025-10-09,ICICI Lombard,77573.36,No,Improved,4,7
+PT10397,Neha Kale,49,Female,O+,Endocrinology,Cardiac Care,Emergency,2025-11-14,2025-11-17,Self-Pay,60432.81,No,Improved,4,3
+PT10737,Omkar Kelkar,38,Female,O+,General Medicine,Cardiac Care,Elective,2025-02-03,2025-02-10,Star Health,82350.77,No,Recovered,5,7
+PT10217,Vikram Gokhale,38,Male,AB-,Orthopedics,Arthritis,Urgent,2025-05-28,2025-05-30,Star Health,36919.0,No,Follow-Up Required,2,2
+PT10004,Meera Phadke,60,Female,B+,General Medicine,Asthma,Elective,2025-07-08,2025-07-12,HDFC ERGO,57163.87,No,Improved,5,4
+PT10642,Rohan Joshi,49,Male,O-,Endocrinology,Diabetes,Urgent,2025-02-15,2025-02-16,Self-Pay,20561.31,No,Recovered,5,1
+PT10778,Meera Phadke,81,Female,A+,Orthopedics,Cardiac Care,Emergency,2025-10-09,2025-12-10,ICICI Lombard,70790.55,Yes,Recovered,2,62
+PT10612,Ananya Chitale,38,Female,O-,Orthopedics,Asthma,Urgent,2025-11-01,2025-11-06,Self-Pay,68576.86,No,Recovered,4,5
+PT10546,Neha Kale,27,Male,B+,Orthopedics,Pneumonia,Elective,2025-01-09,2025-01-13,Self-Pay,59926.38,No,Improved,5,4
+PT10725,Karan Sawant,56,Male,B+,Pulmonology,Cardiac Care,Emergency,2025-01-30,2025-02-01,Niva Bupa,53658.91,No,Follow-Up Required,4,2
+PT10683,Karan Sawant,42,Female,B+,Pulmonology,Diabetes,Emergency,2025-03-26,2025-03-30,Star Health,43948.58,Yes,Transferred,4,4
+PT10098,Pooja Jadhav,49,Female,O+,Orthopedics,Diabetes,Elective,2025-07-20,2025-07-25,Self-Pay,50102.94,No,Transferred,5,5
+PT10727,Vikram Gokhale,18,Female,B+,Orthopedics,Diabetes,Urgent,2025-04-16,2025-04-19,Niva Bupa,50390.37,No,Recovered,5,3
+PT10573,Neha Kale,66,Female,B+,General Medicine,Diabetes,Emergency,2025-06-16,2025-06-18,Star Health,35252.88,No,Recovered,5,2
+PT10406,Omkar Kelkar,67,Female,A+,Cardiology,Arthritis,Elective,2025-04-06,2025-04-09,HDFC ERGO,49547.09,No,Follow-Up Required,5,3
+PT10502,Tanvi Limaye,37,Male,A+,Cardiology,Pneumonia,Urgent,2025-09-25,2025-10-02,Niva Bupa,93003.54,No,Follow-Up Required,3,7
+PT10047,Meera Phadke,61,Male,O+,General Medicine,Arthritis,Elective,2025-02-22,2025-03-09,Star Health,150620.36,No,Recovered,4,15
+PT10200,Priya Deshmukh,27,Female,O+,Endocrinology,Asthma,Urgent,2025-07-22,2025-07-26,HDFC ERGO,41090.04,No,Follow-Up Required,5,4
+PT10134,Siddharth Naik,75,Male,AB-,Cardiology,Asthma,Emergency,2025-01-13,2025-01-17,Star Health,65587.16,Yes,Recovered,4,4
+PT10767,Pooja Jadhav,80,Female,A-,Cardiology,Pneumonia,Emergency,2025-11-22,2025-12-04,Star Health,156387.08,Yes,Recovered,5,12
+PT10230,Vikram Gokhale,80,Male,AB-,Pulmonology,Asthma,Emergency,2025-09-20,2025-09-21,Star Health,32853.46,Yes,Improved,3,1
+PT10489,Priya Deshmukh,36,Male,AB-,Endocrinology,Arthritis,Elective,2025-09-06,2025-09-11,Self-Pay,73267.21,No,Improved,5,5
+PT10378,Sneha Patil,76,Other,B-,General Medicine,Cardiac Care,Emergency,2025-07-15,2025-07-18,ICICI Lombard,59033.92,No,Recovered,3,3
+PT10288,Pooja Jadhav,72,Female,O+,General Medicine,Cardiac Care,Emergency,2025-04-07,2025-04-09,HDFC ERGO,64102.7,No,Improved,4,2
+PT10418,Rohan Joshi,46,Male,A-,Pulmonology,Pneumonia,Elective,2025-03-17,2025-03-20,Self-Pay,61827.28,No,Improved,4,3
+PT10674,Neha Kale,30,Male,O-,Orthopedics,Arthritis,Urgent,2025-07-16,2025-07-18,HDFC ERGO,38517.58,No,Improved,4,2
+PT10391,Sneha Patil,38,Male,O+,Pulmonology,Pneumonia,Urgent,2025-11-15,2025-11-16,Niva Bupa,49811.29,Yes,Improved,1,1
+PT10592,Meera Phadke,82,Male,O+,General Medicine,Arthritis,Urgent,2025-05-14,2025-05-20,Self-Pay,78926.09,Yes,Recovered,5,6
+PT10498,Meera Phadke,62,Female,A-,Orthopedics,Asthma,Urgent,2025-05-31,2025-06-02,HDFC ERGO,35074.47,Yes,Recovered,2,2
+PT10138,Karan Sawant,72,Female,A+,Orthopedics,Arthritis,Urgent,2025-08-31,2025-09-10,ICICI Lombard,84473.39,No,Improved,5,10
+PT10062,Aarav Kulkarni,54,Female,B+,General Medicine,Arthritis,Urgent,2025-06-11,2025-06-21,HDFC ERGO,97421.72,No,Improved,3,10
+PT10471,Aarav Kulkarni,72,Female,B-,Orthopedics,Diabetes,Emergency,2025-04-05,2025-04-07,Niva Bupa,28470.93,No,Follow-Up Required,2,2
+PT10647,Aarav Kulkarni,65,Male,B-,Endocrinology,Hypertension,Emergency,2025-07-16,2025-07-23,Star Health,74151.16,No,Recovered,5,7
+PT10128,Aarav Kulkarni,19,Male,B+,General Medicine,Hypertension,Urgent,2025-08-19,2025-08-23,ICICI Lombard,50525.06,No,Recovered,3,4
+PT10847,Karan Sawant,44,Female,B+,Pulmonology,Pneumonia,Urgent,2025-04-11,2025-04-14,Niva Bupa,62653.12,No,Improved,4,3
+PT10520,Pooja Jadhav,66,Male,B-,Pulmonology,Asthma,Urgent,2025-07-25,2025-07-31,Niva Bupa,71425.61,Yes,Improved,4,6
+PT10064,Aarav Kulkarni,67,Male,B+,Endocrinology,Asthma,Elective,2025-09-27,2025-09-28,HDFC ERGO,24918.4,No,Follow-Up Required,3,1
+PT10156,Karan Sawant,39,Female,O+,General Medicine,Cardiac Care,Urgent,2025-05-01,2025-05-08,Self-Pay,88139.79,No,Recovered,5,7
+PT10040,Karan Sawant,49,Female,O+,Pulmonology,Arthritis,Urgent,2025-06-16,2025-06-18,Niva Bupa,30360.44,No,Recovered,4,2
+PT10492,Priya Deshmukh,72,Female,A+,General Medicine,Arthritis,Emergency,2025-08-15,2025-08-20,Self-Pay,76722.23,No,Recovered,5,5
+PT10379,Meera Phadke,39,Other,AB+,Endocrinology,Asthma,Elective,2025-09-19,2025-09-24,HDFC ERGO,54651.99,No,Recovered,5,5
+PT10187,Rohan Joshi,47,Female,B+,General Medicine,Hypertension,Elective,2025-08-08,2025-08-11,HDFC ERGO,48559.99,No,Improved,3,3
+PT10763,Omkar Kelkar,59,Female,B-,Endocrinology,Cardiac Care,Urgent,2025-04-02,2025-04-06,Star Health,70188.22,Yes,Follow-Up Required,4,4
+PT10216,Siddharth Naik,25,Female,O-,General Medicine,Arthritis,Urgent,2025-09-16,2025-09-17,Niva Bupa,32159.89,No,Improved,5,1
+PT10052,Priya Deshmukh,38,Male,AB-,General Medicine,Arthritis,Elective,2025-03-22,2025-03-28,ICICI Lombard,48390.43,No,Recovered,5,6
+PT10337,Neha Kale,69,Male,B-,Orthopedics,Pneumonia,Elective,2025-02-08,2025-02-09,Self-Pay,47720.68,No,Recovered,4,1
+PT10748,Pooja Jadhav,63,Male,O+,General Medicine,Cardiac Care,Elective,2025-07-02,2025-07-09,HDFC ERGO,107160.91,No,Improved,4,7
+PT10719,Sneha Patil,33,Female,O-,Endocrinology,Diabetes,Elective,2025-11-02,2025-11-06,Self-Pay,59507.75,Yes,Recovered,2,4
+PT10724,Vikram Gokhale,64,Male,O-,Cardiology,Asthma,Urgent,2025-06-15,2025-06-30,ICICI Lombard,129922.06,Yes,Recovered,4,15
+PT10295,Priya Deshmukh,55,Male,B-,Cardiology,Arthritis,Urgent,2025-07-11,2025-07-19,Self-Pay,96534.79,No,Improved,5,8
+PT10701,Siddharth Naik,79,Female,AB-,General Medicine,Arthritis,Urgent,2025-09-25,2025-09-29,HDFC ERGO,49434.56,No,Improved,4,4
+PT10251,Rutuja Shirke,33,Female,AB+,Cardiology,Arthritis,Urgent,2025-06-10,2025-06-13,Niva Bupa,51834.13,Yes,Recovered,3,3
+PT10726,Rutuja Shirke,37,Female,B-,General Medicine,Hypertension,Elective,2025-09-04,2025-09-09,ICICI Lombard,66090.21,Yes,Recovered,1,5
+PT10461,Pooja Jadhav,21,Female,A+,Endocrinology,Arthritis,Elective,2025-04-11,2025-04-13,ICICI Lombard,40569.09,Yes,Recovered,4,2
+PT10455,Rutuja Shirke,43,Female,O-,Cardiology,Diabetes,Elective,2025-06-09,2025-06-13,Star Health,37873.98,No,Recovered,4,4
+PT10269,Priya Deshmukh,19,Female,AB+,General Medicine,Asthma,Emergency,2025-10-04,2025-10-08,ICICI Lombard,54073.73,No,Improved,4,4
+PT10201,Tanvi Limaye,42,Male,O+,Pulmonology,Cardiac Care,Emergency,2025-07-03,2025-07-04,ICICI Lombard,46763.25,No,Recovered,1,1
+PT10161,Priya Deshmukh,31,Female,B-,Pulmonology,Pneumonia,Emergency,2025-05-17,2025-05-20,HDFC ERGO,66504.73,Yes,Recovered,3,3
+PT10555,Ananya Chitale,67,Female,A+,Cardiology,Hypertension,Elective,2025-10-10,2025-10-16,Star Health,69565.51,No,Improved,4,6
+PT10729,Rutuja Shirke,84,Male,O+,Endocrinology,Asthma,Emergency,2025-03-22,2025-03-24,ICICI Lombard,35440.16,No,Recovered,4,2
+PT10401,Omkar Kelkar,30,Female,O-,Endocrinology,Asthma,Emergency,2025-02-27,2025-03-04,Self-Pay,58842.44,No,Follow-Up Required,3,5
+PT10702,Vikram Gokhale,50,Male,O+,General Medicine,Arthritis,Urgent,2025-02-23,2025-03-03,Self-Pay,84684.34,No,Recovered,4,8
+PT10476,Rohan Joshi,36,Female,A-,General Medicine,Hypertension,Urgent,2025-08-03,2025-08-08,Niva Bupa,67887.52,No,Recovered,4,5
+PT10771,Aditya Bhosale,55,Female,A-,Endocrinology,Hypertension,Emergency,2025-01-12,2025-01-19,Niva Bupa,86198.24,No,Recovered,4,7
+PT10105,Ananya Chitale,53,Female,A-,Cardiology,Pneumonia,Elective,2025-10-20,2025-10-26,Niva Bupa,83518.37,Yes,Follow-Up Required,5,6
+PT10565,Siddharth Naik,43,Female,A+,Cardiology,Asthma,Elective,2025-08-05,2025-08-15,Niva Bupa,115562.93,Yes,Recovered,4,10
+PT10389,Neha Kale,64,Female,A-,Orthopedics,Hypertension,Emergency,2025-05-25,2025-05-26,ICICI Lombard,30537.35,No,Improved,4,1
+PT10001,Meera Phadke,60,Female,A+,Orthopedics,Arthritis,Emergency,2025-09-28,2025-10-02,Star Health,63371.1,No,Recovered,4,4
+PT10813,Aditya Bhosale,64,Male,A-,Cardiology,Diabetes,Elective,2025-08-27,2025-09-02,HDFC ERGO,56786.24,No,Transferred,3,6
+PT10561,Vikram Gokhale,32,Male,B-,Pulmonology,Diabetes,Emergency,2025-05-16,2025-05-18,Self-Pay,23552.28,No,Recovered,5,2
+PT10080,Siddharth Naik,32,Female,AB-,General Medicine,Pneumonia,Elective,2025-06-06,2025-06-09,Star Health,60166.56,No,Recovered,1,3
+PT10205,Rutuja Shirke,50,Other,O+,Pulmonology,Diabetes,Urgent,2025-10-07,2025-10-10,Star Health,45026.3,Yes,Recovered,4,3
+PT10034,Priya Deshmukh,30,Female,AB+,General Medicine,Hypertension,Emergency,2025-11-16,2025-11-20,Niva Bupa,46680.67,Yes,Recovered,4,4
+PT10775,Vikram Gokhale,57,Male,B+,Cardiology,Hypertension,Elective,2025-08-06,2025-08-11,Star Health,65210.13,No,Recovered,5,5
+PT10508,Meera Phadke,78,Male,AB+,Cardiology,Asthma,Urgent,2025-09-30,2025-10-07,HDFC ERGO,64020.83,No,Recovered,3,7
+PT10427,Vikram Gokhale,20,Female,AB+,Cardiology,Asthma,Elective,2025-04-04,2025-04-08,ICICI Lombard,61930.25,No,Improved,4,4
+PT10454,Meera Phadke,41,Male,B-,Orthopedics,Pneumonia,Urgent,2025-09-15,2025-09-17,Niva Bupa,50911.22,No,Recovered,2,2
+PT10366,Pooja Jadhav,49,Female,AB+,Orthopedics,Pneumonia,Emergency,2025-06-29,2025-07-09,Self-Pay,108474.99,No,Recovered,3,10
+PT10091,Rutuja Shirke,35,Female,O-,Orthopedics,Diabetes,Elective,2025-06-12,2025-06-17,Self-Pay,65078.51,Yes,Follow-Up Required,5,5
+PT10339,Sneha Patil,24,Male,B-,Cardiology,Asthma,Emergency,2025-09-04,2025-09-06,HDFC ERGO,41355.38,No,Recovered,4,2
+PT10564,Vikram Gokhale,59,Male,B-,Endocrinology,Cardiac Care,Emergency,2025-11-23,2025-11-26,Star Health,64822.66,No,Recovered,5,3
+PT10345,Pooja Jadhav,25,Female,O-,Endocrinology,Hypertension,Elective,2025-02-05,2025-02-10,HDFC ERGO,63080.21,No,Recovered,5,5
+PT10776,Aarav Kulkarni,47,Female,AB-,Pulmonology,Diabetes,Emergency,2025-10-28,2025-10-30,Niva Bupa,37386.41,No,Recovered,2,2
+PT10241,Vikram Gokhale,19,Male,B-,Cardiology,Arthritis,Urgent,2025-01-09,2025-01-10,Self-Pay,32489.5,No,Recovered,4,1
+PT10315,Meera Phadke,25,Female,B+,General Medicine,Pneumonia,Urgent,2025-06-10,2025-06-12,ICICI Lombard,53492.72,No,Recovered,1,2
+PT10600,Vikram Gokhale,56,Male,AB-,Endocrinology,Arthritis,Emergency,2025-05-29,2025-05-30,Niva Bupa,30820.53,No,Recovered,4,1
+PT10387,Aarav Kulkarni,56,Male,A+,Endocrinology,Arthritis,Elective,2025-06-07,2025-06-12,ICICI Lombard,52686.51,No,Follow-Up Required,3,5
+PT10273,Meera Phadke,27,Male,AB-,Cardiology,Hypertension,Urgent,2025-05-08,2025-05-15,ICICI Lombard,82432.06,No,Recovered,4,7
+PT10166,Rutuja Shirke,82,Male,O+,Orthopedics,Hypertension,Urgent,2025-08-22,2025-08-26,Self-Pay,54225.75,No,Recovered,4,4
+PT10646,Ananya Chitale,32,Female,A-,Orthopedics,Hypertension,Urgent,2025-09-13,2025-09-18,ICICI Lombard,47324.43,Yes,Recovered,2,5
+PT10818,Karan Sawant,32,Male,O-,General Medicine,Diabetes,Emergency,2025-07-11,2025-07-17,HDFC ERGO,63628.0,No,Improved,4,6
+PT10484,Pooja Jadhav,41,Male,AB+,Pulmonology,Cardiac Care,Elective,2025-11-10,2025-11-15,ICICI Lombard,87536.94,No,Recovered,3,5
+PT10504,Tanvi Limaye,32,Male,AB-,Endocrinology,Pneumonia,Elective,2025-01-13,2025-01-16,Niva Bupa,52572.09,No,Follow-Up Required,5,3
+PT10243,Omkar Kelkar,67,Female,O+,Cardiology,Arthritis,Emergency,2025-04-09,2025-04-10,Star Health,27774.86,No,Improved,4,1
+PT10566,Omkar Kelkar,31,Female,A-,Orthopedics,Cardiac Care,Emergency,2025-10-28,2025-10-31,HDFC ERGO,67008.33,No,Recovered,5,3
+PT10562,Meera Phadke,65,Female,A+,General Medicine,Hypertension,Urgent,2025-11-17,2025-11-29,ICICI Lombard,120265.14,Yes,Transferred,5,12
+PT10686,Meera Phadke,43,Male,A-,Orthopedics,Cardiac Care,Emergency,2025-02-20,2025-02-26,Niva Bupa,95523.51,No,Recovered,3,6
+PT10189,Meera Phadke,84,Female,A-,Cardiology,Hypertension,Urgent,2025-08-12,2025-08-27,Star Health,113460.87,No,Recovered,4,15
+PT10782,Rohan Joshi,70,Female,O-,General Medicine,Cardiac Care,Urgent,2025-08-02,2025-08-17,Self-Pay,125101.73,No,Recovered,4,15
+PT10699,Sneha Patil,38,Male,A-,General Medicine,Asthma,Elective,2025-09-16,2025-09-19,HDFC ERGO,52661.27,Yes,Recovered,3,3
+PT10475,Tanvi Limaye,47,Male,AB+,Cardiology,Pneumonia,Emergency,2025-02-04,2025-02-06,Star Health,45816.19,Yes,Follow-Up Required,5,2
+PT10681,Tanvi Limaye,20,Female,A-,Endocrinology,Arthritis,Urgent,2025-03-24,2025-03-25,Self-Pay,24768.9,No,Follow-Up Required,5,1
+PT10510,Aditya Bhosale,67,Male,AB-,Cardiology,Cardiac Care,Urgent,2025-03-25,2025-03-26,Niva Bupa,54138.65,No,Recovered,5,1
+PT10058,Vikram Gokhale,59,Female,O-,Cardiology,Arthritis,Urgent,2025-11-06,2025-11-13,Star Health,61421.0,No,Improved,5,7
+PT10474,Omkar Kelkar,51,Male,AB+,Cardiology,Hypertension,Emergency,2025-08-30,2025-08-31,Self-Pay,38796.39,No,Recovered,2,1
+PT10560,Meera Phadke,37,Male,O+,Pulmonology,Pneumonia,Elective,2025-06-14,2025-06-19,Self-Pay,89112.5,No,Recovered,4,5
+PT10747,Neha Kale,76,Female,AB-,Cardiology,Asthma,Urgent,2025-05-31,2025-06-04,Star Health,47585.28,Yes,Follow-Up Required,4,4
+PT10252,Meera Phadke,21,Female,A-,Cardiology,Asthma,Emergency,2025-04-26,2025-04-30,Niva Bupa,38843.72,Yes,Recovered,5,4
+PT10021,Rutuja Shirke,46,Male,B+,Endocrinology,Diabetes,Elective,2025-01-22,2025-01-29,ICICI Lombard,72757.55,No,Recovered,4,7
+PT10313,Pooja Jadhav,45,Male,O-,Endocrinology,Diabetes,Urgent,2025-07-10,2025-07-20,Niva Bupa,109067.5,Yes,Improved,5,10
+PT10459,Karan Sawant,55,Female,B-,Pulmonology,Cardiac Care,Emergency,2025-02-02,2025-02-09,HDFC ERGO,106124.16,No,Improved,4,7
+PT10160,Tanvi Limaye,55,Female,AB+,Orthopedics,Diabetes,Urgent,2025-07-17,2025-07-18,Self-Pay,34154.73,No,Improved,2,1
+PT10276,Neha Kale,22,Male,O+,Pulmonology,Diabetes,Emergency,2025-01-22,2025-01-24,Self-Pay,37690.97,Yes,Improved,3,2
+PT10191,Tanvi Limaye,69,Male,AB-,Cardiology,Diabetes,Urgent,2025-05-06,2025-05-10,Star Health,41753.33,Yes,Improved,3,4
+PT10385,Rutuja Shirke,38,Male,A-,General Medicine,Arthritis,Urgent,2025-05-04,2025-05-09,HDFC ERGO,59132.95,No,Transferred,2,5
+PT10805,Priya Deshmukh,50,Male,B+,General Medicine,Pneumonia,Elective,2025-06-03,2025-06-08,Self-Pay,78871.95,Yes,Transferred,4,5
+PT10413,Sneha Patil,73,Female,AB+,Pulmonology,Cardiac Care,Emergency,2025-07-08,2025-07-10,Self-Pay,56011.74,Yes,Recovered,3,2
+PT10491,Rohan Joshi,62,Female,A-,General Medicine,Hypertension,Emergency,2025-07-11,2025-07-18,Self-Pay,59510.29,No,Improved,5,7
+PT10343,Aditya Bhosale,22,Female,O+,Orthopedics,Hypertension,Emergency,2025-11-12,2025-11-16,Niva Bupa,56988.48,No,Recovered,5,4
+PT10769,Pooja Jadhav,64,Male,B-,Cardiology,Diabetes,Elective,2025-05-13,2025-05-25,ICICI Lombard,84897.35,No,Follow-Up Required,3,12
+PT10308,Tanvi Limaye,46,Female,O+,Pulmonology,Pneumonia,Emergency,2025-06-30,2025-07-05,Star Health,84763.25,No,Transferred,5,5
+PT10661,Rohan Joshi,65,Female,A-,Orthopedics,Hypertension,Emergency,2025-06-26,2025-06-27,Niva Bupa,33641.16,No,Improved,3,1
+PT10130,Sneha Patil,47,Female,A-,Pulmonology,Cardiac Care,Elective,2025-05-23,2025-05-27,HDFC ERGO,70551.58,Yes,Follow-Up Required,3,4
+PT10663,Rohan Joshi,36,Female,B-,Orthopedics,Arthritis,Urgent,2025-10-09,2025-10-11,ICICI Lombard,32723.28,No,Recovered,4,2
+PT10099,Priya Deshmukh,36,Male,O+,Pulmonology,Asthma,Urgent,2025-11-24,2025-11-28,Niva Bupa,55513.91,No,Follow-Up Required,5,4
+PT10372,Omkar Kelkar,32,Male,B-,Cardiology,Cardiac Care,Emergency,2025-09-21,2025-09-22,Niva Bupa,54394.34,No,Follow-Up Required,3,1
+PT10087,Neha Kale,19,Female,O+,Endocrinology,Hypertension,Emergency,2025-05-16,2025-05-24,HDFC ERGO,67764.94,No,Follow-Up Required,2,8
+PT10458,Omkar Kelkar,38,Male,O+,Endocrinology,Pneumonia,Urgent,2025-06-12,2025-06-13,HDFC ERGO,51944.21,No,Recovered,1,1
+PT10330,Siddharth Naik,34,Male,B+,Cardiology,Asthma,Emergency,2025-05-07,2025-05-09,ICICI Lombard,36309.54,No,Improved,5,2
+PT10214,Aditya Bhosale,42,Male,AB-,Cardiology,Arthritis,Elective,2025-07-06,2025-07-11,Self-Pay,60776.9,No,Recovered,4,5
+PT10466,Omkar Kelkar,34,Female,AB-,General Medicine,Asthma,Emergency,2025-11-26,2025-12-01,Self-Pay,51066.38,Yes,Recovered,4,5
+PT10121,Pooja Jadhav,67,Male,B+,Orthopedics,Hypertension,Emergency,2025-06-28,2025-07-03,HDFC ERGO,70669.52,Yes,Recovered,4,5
+PT10614,Omkar Kelkar,43,Female,AB-,General Medicine,Asthma,Elective,2025-05-23,2025-05-29,Self-Pay,74442.08,No,Follow-Up Required,5,6
+PT10020,Omkar Kelkar,44,Male,AB-,Pulmonology,Hypertension,Emergency,2025-11-10,2025-11-25,HDFC ERGO,166269.01,No,Recovered,4,15
+PT10700,Rutuja Shirke,45,Male,B-,General Medicine,Asthma,Elective,2025-11-02,2025-11-04,ICICI Lombard,27291.35,No,Improved,4,2
+PT10071,Ananya Chitale,53,Female,A-,Pulmonology,Diabetes,Emergency,2025-08-01,2025-08-03,HDFC ERGO,44377.99,No,Recovered,5,2
+PT10106,Siddharth Naik,20,Male,B+,Cardiology,Cardiac Care,Urgent,2025-04-09,2025-04-10,Star Health,50203.31,Yes,Improved,5,1
+PT10270,Aditya Bhosale,79,Female,A+,General Medicine,Pneumonia,Urgent,2025-10-31,2025-11-05,Star Health,81507.73,Yes,Transferred,3,5
+PT10435,Vikram Gokhale,83,Female,O+,Pulmonology,Hypertension,Emergency,2025-08-10,2025-08-14,Star Health,49956.55,No,Improved,3,4
+PT10102,Vikram Gokhale,49,Male,AB+,General Medicine,Hypertension,Elective,2025-02-17,2025-02-19,ICICI Lombard,37738.63,No,Follow-Up Required,2,2
